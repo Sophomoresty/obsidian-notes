@@ -1,13 +1,3 @@
-# 忽略 Obsidian 配置缓存
-.obsidian/workspace.json
-.obsidian/appearance.json
-
-# 忽略附件和图片
-*.png
-*.jpg
-*.jpeg
-*.gif
-
 # 忽略大文件类型
 *.exe
 *.dmg
