@@ -6,7 +6,7 @@
       {
         "id": "1e975ccbcdcac8db",
         "type": "tabs",
-        "dimension": 10.941609679116256,
+        "dimension": 10.941609679116258,
         "children": [
           {
             "id": "20a08aed33d23feb",
@@ -46,6 +46,21 @@
             }
           },
           {
+            "id": "195fcf5ca4371394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-05-04.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-04"
+            }
+          },
+          {
             "id": "d83e42156e8a321e",
             "type": "leaf",
             "state": {
@@ -53,8 +68,8 @@
               "state": {
                 "file": "Drawing 2025-04-29 22.38.56.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-29 22.38.56.excalidraw"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -112,7 +127,8 @@
               "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 200
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -257,8 +273,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
@@ -270,25 +286,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
-      "homepage:Open homepage": false,
-      "open-vscode:VSCode": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
+      "homepage:Open homepage": false,
+      "open-vscode:VSCode": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "de4fd676b91fea1b",
+  "active": "195fcf5ca4371394",
   "lastOpenFiles": [
+    "日记/2025-05-04.md_Attachments/1746330948492 1.jpg",
+    "日记/2025-05-04.md_Attachments/1746330948492.jpg",
+    "日记/2025-05-04.md_Attachments/1746330967827.jpg",
+    "日记/2025-05-04.md_Attachments",
     "git_output.log",
     "日记/2025-05-03.md",
     "日记/2025-05-04.md",
@@ -326,15 +346,11 @@
     "日记/规划.md_Attachments/规划-20250327224638402.png",
     "相关系数",
     "新建文件夹",
-    "相关系数练习/大纲.png",
     "相关系数练习",
     "Excalidraw/fonts/JetBrainsMonoNL-LightItalic.ttf",
     "Excalidraw/fonts/JetBrainsMonoNL-ExtraLightItalic.ttf",
     "Excalidraw/fonts/JetBrainsMonoNL-ExtraBoldItalic.ttf",
     "Excalidraw/fonts/JetBrainsMonoNL-ThinItalic.ttf",
-    "Excalidraw/fonts/JetBrainsMonoNL-SemiBoldItalic.ttf",
-    "Excalidraw/fonts/JetBrainsMonoNL-Italic.ttf",
-    "日记/2025-03-12.md_Attachments/2025-03-12-20250312002118043.png",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",
