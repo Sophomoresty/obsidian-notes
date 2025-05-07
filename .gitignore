@@ -8,7 +8,6 @@
 # 忽略敏感信息
 *.env
 *.key
-*.json
 token.txt
 secret*
 
