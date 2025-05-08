@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-05-08.md",
+                "file": "日记/规划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-08"
+              "title": "规划"
             }
           }
         ],
@@ -231,12 +231,12 @@
   },
   "active": "24db563f675b282c",
   "lastOpenFiles": [
-    "日记/2025-04-10.md",
     "日记/2025-05-08.md",
+    "日记/pandas 笔记.md",
     "日记/规划.md",
+    "日记/2025-04-10.md",
     "日记/2025-05-07.md",
     "日记/2025-05-05.md",
-    "日记/pandas 笔记.md",
     "日记/看板.md",
     "日记/2025-05-04.md",
     "日记/2025-05-03.md",
