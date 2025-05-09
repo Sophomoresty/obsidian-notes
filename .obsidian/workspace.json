@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-05-09.md",
+                "file": "日记/规划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-09"
+              "title": "规划"
             }
           }
         ],
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 419.5
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -231,8 +231,9 @@
   },
   "active": "24db563f675b282c",
   "lastOpenFiles": [
-    "日记/2025-05-08.md",
     "日记/2025-05-09.md",
+    "日记/2025-05-10.md",
+    "日记/2025-05-08.md",
     "日记/2025-05-07.md",
     "日记/规划.md",
     "日记/pandas 笔记.md",
@@ -258,7 +259,6 @@
     "日记/2025-04-26.md",
     "日记/2025-04-25.md",
     "日记/2025-04-19.md",
-    "日记/2025-04-24.md",
     "相关系数练习/output_9_0.png",
     "相关系数练习/output_20_0.png",
     "相关系数练习/output_22_1.png",
