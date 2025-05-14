@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 22,
+  "accentColor": "#04c8e6",
+  "theme": "moonstone",
+  "cssTheme": "Things",
+  "monospaceFontFamily": "JetBrainsMono",
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R,Maple Mono Normal",
+  "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版 R,Maple Mono Normal,JetBrains Mono NL",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "表格美化"
+  ]
+}

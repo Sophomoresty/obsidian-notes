@@ -1,0 +1,23 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "vimMode": false,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./2025-05-14.md_Attachments",
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "strictLineBreaks": true,
+  "autoConvertHtml": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": null,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

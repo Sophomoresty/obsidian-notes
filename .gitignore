@@ -1,0 +1,14 @@
+# 忽略大文件类型
+*.exe
+*.dmg
+*.rar
+*.zip
+*.7z
+
+# 忽略敏感信息
+*.env
+*.key
+token.txt
+secret*
+
+
