@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025-06-08.md",
+                "file": "日记/2025-06-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-06-08 的大纲"
+              "title": "2025-06-09 的大纲"
             }
           }
         ]
@@ -81,13 +81,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-06-08.md",
+                "file": "日记/2025-06-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-08"
+              "title": "2025-06-09"
             }
           },
           {
@@ -298,8 +298,9 @@
   },
   "active": "307665c50229a704",
   "lastOpenFiles": [
-    "002_考研/ADD M 执行算术或逻辑运算的微操作.md",
     "日记/2025-06-08.md",
+    "日记/2025-06-09.md",
+    "002_考研/ADD M 执行算术或逻辑运算的微操作.md",
     "Excalidraw/scanf易错点.md",
     "自动化 Git 提交信息（带年份）配置总结.md",
     "日记/规划.md",
@@ -325,7 +326,6 @@
     "002_考研/英语单词.md",
     "日记/2025-06-05.md",
     "日记/快捷键.md",
-    "日记/2025-06-04.md",
     "日记/2025-05",
     "未命名",
     "机电一体化 期末考试重点总结.md_Attachments/更正.jpg",
