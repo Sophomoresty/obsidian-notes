@@ -35,7 +35,7 @@ cp prepare-commit-msg.sample prepare-commit-msg
 使用你喜欢的文本编辑器打开 `prepare-commit-msg` 文件，并将里面的所有内容替换为以下脚本：
 
 ```bash
-#!/bin/bash
+#!/bin/bash	
 
 # 获取当前时间并格式化为 YYYY-MM-DD-HH-MM
 TIME_FORMAT=$(date "+%Y-%m-%d-%H-%M")
