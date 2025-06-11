@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "accentColor": "#04c8e6",
   "theme": "moonstone",
   "cssTheme": "Blue Topaz",
@@ -10,5 +10,5 @@
   "enabledCssSnippets": [
     "表格美化"
   ],
-  "showRibbon": false
+  "showRibbon": true
 }
