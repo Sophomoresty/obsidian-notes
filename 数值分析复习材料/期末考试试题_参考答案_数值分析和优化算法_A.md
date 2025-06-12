@@ -21,18 +21,7 @@
 3. **实验数据**, **横截面数据**
 4. **Jarque-Bera (JB)检验**, **Shapiro-Wilk (SW)检验** (或 Kolmogorov-Smirnov 检验)
 5. **1**
-6. **对数(log) 或 Box-Cox 变换**
-
-> [!解释]
-> 这里填 Box-Cox 变换和对数变换都可以。**Box-Cox变换**是一个更通用的变换家族，旨在寻找最佳参数 $\lambda$ 以稳定方差、使数据正态化。其通用公式为：
-> $$y(\lambda) = 
-\begin{cases} 
-\displaystyle\frac{x^\lambda - 1}{\lambda}, & \text{如果 } \lambda \neq 0 \\
-\\
-\log(x), & \text{如果 } \lambda = 0 
-\end{cases}$$
-> 从公式可见，**对数变换**是Box-Cox变换在参数 $\lambda=0$ 时的一个特例，也是实际应用中最常用的处理数据偏态的方法之一。
-
+6. **Box-Cox 变换**
 ***
 
 ### 三、代码阅读题
