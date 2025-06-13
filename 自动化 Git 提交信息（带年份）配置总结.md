@@ -1,4 +1,4 @@
-
+[[自动化 Git 提交信息（带年份）配置总结.md_Attachments/川大机械制造工程学复习要点]]
 
 我们通过配置 Git 钩子（Git Hooks）和 Git 别名（Git Alias），实现了以下功能：当你执行 `git autocommit` 命令时，它会自动暂存所有更改，并以 `更新时间:YYYY-MM-DD-HH-MM` 的格式生成提交信息。
 
