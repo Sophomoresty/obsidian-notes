@@ -31,7 +31,7 @@ $\varDelta_{jw}=0$
 ![[B站例题.md_Attachments/B站例题-20250623113504721.png]]
 这是无关的例子, 要记住
 
-![[B站例题.md_Attachments/B站例题-20250623114338156.png]]
+![[B站例题.md_Attachments/B站例题-20250623114338156.png|1000]]
 
 
 ![[B站例题.md_Attachments/B站例题-20250623183228618.png]]
