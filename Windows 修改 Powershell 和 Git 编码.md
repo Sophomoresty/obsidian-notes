@@ -68,7 +68,3 @@ git config --global i18n.logoutputencoding utf-8
 ```
 
 这些命令会将 Git 的相关编码设置更改为 UTF-8，并确保 Git 在处理包含非 ASCII 字符的路径时不会出现问题。
-
----
-
-通过以上步骤，你的 PowerShell 和 Git 环境应该就能很好地支持中文了。
