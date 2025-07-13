@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025-07-11.md",
+                "file": "日记/2025-07-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-11 的大纲"
+              "title": "2025-07-13 的大纲"
             }
           }
         ]
@@ -31,67 +31,52 @@
         "dimension": 84.61538461538461,
         "children": [
           {
-            "id": "b2c5550743177817",
+            "id": "bd4fdd80e2e38ce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "英语打卡.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "英语打卡"
             }
           },
           {
-            "id": "8a03bf1c2cea8ea0",
+            "id": "0aa11950e79381f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-07-11.md",
+                "file": "yt-dlp命令.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-11"
+              "title": "yt-dlp命令"
             }
           },
           {
-            "id": "92eb4c5a9d85fcc7",
+            "id": "9c5d4765542b10ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-07-08.md",
+                "file": "日记/2025-07-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-08"
-            }
-          },
-          {
-            "id": "2e3c1881418b2970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 4"
+              "title": "2025-07-13"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 277.5
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -266,9 +251,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8a03bf1c2cea8ea0",
+  "active": "9c5d4765542b10ec",
   "lastOpenFiles": [
     "日记/规划.md",
+    "日记/2025-07-13.md",
+    "笔记.md",
+    "yt-dlp命令.md",
+    "日记/2025-07-12.md",
+    "英语打卡.md",
+    "日记/2025-07-08.md",
+    "英语打卡.md_Attachments/英语打卡-20250712094553098.png",
+    "英语打卡.md_Attachments/英语打卡-20250712094547564.png",
+    "英语打卡.md_Attachments",
+    "Windows 修改 Powershell 和 Git 编码.md",
+    "实习笔记.md",
+    "未命名 5.md",
     "日记/2025-07-11.md",
     "人物提示词/提示词工程师.md",
     "001_代码/Python/网课/luffy_python/第3阶段考试题和答案/第25题参考代码/ticketing/db/tickets/欢乐谷.txt",
@@ -285,8 +282,6 @@
     "001_代码/Python/网课/luffy_python/第3阶段考试题和答案/assets/image-20210428133822091.png",
     "001_代码/Python/网课/luffy_python/第3阶段考试题和答案/assets/image-20210428133641127.png",
     "001_代码/Python/网课/luffy_python/第3阶段考试题和答案/assets/image-20210428114813558.png",
-    "001_代码/Python/网课/luffy_python/第3阶段考试题和答案/assets/image-20210428114517012.png",
-    "001_代码/Python/网课/luffy_python/第3阶段考试题和答案/assets/image-20210428114004136.png",
     "001_代码/Python/网课/luffy_python/第3阶段考试题和答案/第3阶段 考试题（含答案）.md",
     "001_代码/Python/网课/luffy_python/第3阶段考试题和答案/第3阶段 考试题.md",
     "001_代码/Python/网课/luffy_python/第3阶段考试题和答案/第25题参考代码",
@@ -295,7 +290,6 @@
     "001_代码/Python/网课/luffy_python/第2阶段考试题和答案/第二阶段考试题.md",
     "001_代码/Python/网课/luffy_python/第2阶段考试题和答案/第二阶段考试题 (含答案).md",
     "001_代码/Python/网课/luffy_python/第2阶段考试题和答案/4.乘法表.py",
-    "001_代码/Python/网课/luffy_python/第2阶段考试题和答案/3.62进位.py",
     "001_代码/Python/网课/luffy_python/第1阶段考试题和答案/第一阶段 考试题.md",
     "001_代码/Python/网课/luffy_python/第1阶段考试题和答案/第一阶段 考试题（答案）.md",
     "001_代码/Python/网课/luffy_python/day29 Python操作MySQL和实战.md",
@@ -305,15 +299,6 @@
     "001_代码/Python/网课/luffy_python/day25 作业答案.md",
     "001_代码/Python/网课/luffy_python/day25 MySQL入门.md",
     "001_代码/Python/网课/luffy_python/day24 阶段总结和考试.md",
-    "001_代码/Python/网课/luffy_python/day23 并发编程（下）.md",
-    "001_代码/Python/网课/luffy_python/day22 并发编程（上）.md",
-    "001_代码/Python/网课/luffy_python/day21 网络编程（下）.md",
-    "001_代码/Python/网课/luffy_python/day20 网络编程（上）.md",
-    "001_代码/Python/网课/luffy_python/day19 面向对象高级和应用.md",
-    "001_代码/Python/网课/luffy_python/day18 面向对象进阶.md",
-    "001_代码/Python/网课/luffy_python/day17 初识面向对象.md",
-    "001_代码/Python/网课/luffy_python/day16 阶段总结和考试.md",
-    "001_代码/Python/网课/luffy_python/day15 内置和开发规范.md",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",
