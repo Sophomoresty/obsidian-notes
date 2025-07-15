@@ -64,14 +64,6 @@
       "key": "/"
     }
   ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Q"
-    }
-  ],
   "open-with-default-app:open": [
     {
       "modifiers": [
@@ -104,5 +96,22 @@
       "key": "D"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "editor:open-link-in-new-leaf": [],
+  "templater-obsidian:_Templates/英语_语法_每日模板.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "templater-obsidian:_Templates/英语_语法_打卡作业片段.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ]
 }

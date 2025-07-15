@@ -116,13 +116,11 @@ mamba run -n yt_dlp_enve yt-dlp \
     --extract-audio \
     --audio-format mp3 \
     --playlist-items "1:" \
-    -o "/mnt/f/媒体库/音乐/%(title)s.%(ext)s" \
+    -o "/mnt/c/Users/Sophomores/Desktop/音乐/%(title)s.%(ext)s" \
     --downloader "aria2c" \
     --downloader-args "aria2c:-j5 -x16" \
-    "https://www.bilibili.com/video/BV1k142167RN/" \
-    "网址2" \
-    "网址3" \
-```	
+    "https://www.bilibili.com/video/BV1TE411n7um/"
+```
 
 
 ```bash
@@ -142,3 +140,71 @@ aria2c \
     --dir="/mnt/c/Users/Sophomores/Desktop/桥桥超温柔/" \
     --max-concurrent-downloads=5 \
     --max-connection-per-server=16
+
+
+## 下载视频和音频
+
+```bash
+#!/bin/bash
+
+# --- 配置区 ---
+COOKIES_FILE="/mnt/e/Chrome Download/www.bilibili.com_cookies.txt"
+VIDEO_ROOT_DIR="/mnt/f/媒体库/B站音视频/视频" # 所有下载的视频将放在此目录下的播放列表子目录中
+AUDIO_ROOT_DIR="/mnt/f/媒体库/B站音视频/音频" # 所有提取的音频将放在此目录下的播放列表子目录中
+
+# 要下载的B站URL列表
+URLS=(
+  "https://space.bilibili.com/67815486/lists/290421"
+  "https://space.bilibili.com/6065166/lists/1129502"
+  "https://www.bilibili.com/video/BV1F64y1m74E/"
+  "https://www.bilibili.com/video/BV13z4y1o78c"
+  "https://www.bilibili.com/video/BV1aJ411S7sJ/"
+  "https://www.bilibili.com/video/BV1sB4y1G7zm/"
+  "https://www.bilibili.com/video/BV1i7411v7PF/"
+  "https://www.bilibili.com/video/BV1bo4y1377c/"
+  "https://www.bilibili.com/video/BV17b421J7bW/"
+)
+
+# --- 检查依赖 (保持不变) ---
+if ! command -v mamba &> /dev/null; then
+    echo "错误：mamba 未安装或不在 PATH 中。"
+    exit 1
+fi
+if ! command -v ffmpeg &> /dev/null; then
+    echo "错误：ffmpeg 未安装或不在 PATH 中。请安装 ffmpeg。"
+    exit 1
+fi
+
+# --- 阶段 1: 使用 yt-dlp 下载视频 (保持不变) ---
+echo "--- 阶段 1: 开始下载视频 ---"
+YT_DLP_OUTPUT_TEMPLATE="${VIDEO_ROOT_DIR}/%(playlist)s/%(title)s.%(ext)s"
+
+mamba run -n yt_dlp_enve yt-dlp \
+  -U \
+  --cookies "${COOKIES_FILE}" \
+  --download-archive "bilibili_archive.txt" \
+  -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best" \
+  --output "${YT_DLP_OUTPUT_TEMPLATE}" \
+  --downloader "aria2c" \
+  --downloader-args "aria2c:-j5 -x16" \
+  "${URLS[@]}"
+
+```
+
+批量提取音频
+```bash
+shopt -s globstar; \
+VIDEO_ROOT_DIR="/mnt/f/媒体库/B站音视频/视频"; \
+AUDIO_ROOT_DIR="/mnt/f/媒体库/B站音视频/音频"; \
+for video_full_path in "${VIDEO_ROOT_DIR}"/**/*.mp4; do \
+  if [ ! -f "${video_full_path}" ]; then continue; fi; \
+  relative_to_video_root="${video_full_path#${VIDEO_ROOT_DIR}/}"; \
+  base_name_no_ext="${relative_to_video_root%.mp4}"; \
+  output_audio_path="${AUDIO_ROOT_DIR}/${base_name_no_ext}.mp3"; \
+  mkdir -p "$(dirname "${output_audio_path}")"; \
+  echo "处理文件: ${video_full_path}"; \
+  echo "输出到: ${output_audio_path}"; \
+  ffmpeg -i "${video_full_path}" -vn -c:a libmp3lame -q:a 0 -y -hide_banner "${output_audio_path}"; \
+  if [ $? -ne 0 ]; then echo "警告：提取音频失败，文件: ${video_full_path}"; fi; \
+done
+```

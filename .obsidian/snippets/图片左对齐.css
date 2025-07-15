@@ -1,0 +1,26 @@
+/*
+  目标：在“阅读模式”和“实时预览（编辑模式）”下，都让图片默认左对齐
+*/
+
+/* --- 规则1: 针对“阅读模式” --- */
+/* 这会选中阅读视图下的所有图片 */
+.markdown-preview-view img {
+  display: block !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+/* --- 规则2: 针对“实时预览（编辑模式）” --- */
+/* 在编辑模式下，图片被一个叫 .image-embed 的容器包裹着，
+  我们需要对这个容器进行操作。
+*/
+.markdown-source-view.mod-cm6 .image-embed {
+  display: block !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+.markdown-source-view.mod-cm6 div.cm-line:has(.image-embed) {
+  justify-content: flex-start !important; /* 针对Flexbox布局的强制居左 */
+  text-align: left !important;            /* 针对text-align布局的强制居左 */
+}
