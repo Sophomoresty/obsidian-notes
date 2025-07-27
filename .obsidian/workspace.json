@@ -4,79 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "3afb71ee4acf0e3a",
+        "id": "ef662b957aea9dd7",
         "type": "tabs",
-        "dimension": 15.885623510722796,
+        "dimension": 20.64156206415621,
         "children": [
           {
-            "id": "7a1da23d6d152af5",
+            "id": "ded113f207136090",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/规划.md",
+                "file": "日记/2025-07-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "规划 的大纲"
+              "title": "2025-07-27 的大纲"
             }
           }
         ]
       },
       {
-        "id": "d3719400ff012f8c",
+        "id": "43c1d5d164647aab",
         "type": "tabs",
-        "dimension": 84.1143764892772,
+        "dimension": 79.3584379358438,
         "children": [
           {
-            "id": "74d97008d8eaffe7",
+            "id": "8b729dbf10de99c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/408/计组/计组概念总结_含不懂和错题.md",
+                "file": "考研/数学/复合函数和求导法则证明.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "计组概念总结_含不懂和错题"
+              "title": "复合函数和求导法则证明"
             }
           },
           {
-            "id": "ef15c0bc40b7da82",
+            "id": "7116ce5b52c206e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-07-22.md",
+                "file": "考研/数学/不定积分计算.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-22"
+              "title": "不定积分计算"
             }
           },
           {
-            "id": "f9411f9cf8fdb9db",
+            "id": "24c3fd9bb8f24518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/规划.md",
+                "file": "考研/数学/武忠祥-强化-笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "规划"
+              "title": "武忠祥-强化-笔记"
             }
           },
           {
-            "id": "864e14777acec917",
+            "id": "573431a054c7e74d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,22 +91,22 @@
             }
           },
           {
-            "id": "ef319dfe5153f4bf",
+            "id": "73ae241acf1a500b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-07-20.md",
+                "file": "日记/2025-07-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-20"
+              "title": "2025-07-27"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 374.5110321044922
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -251,8 +251,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -281,15 +281,40 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f9411f9cf8fdb9db",
+  "active": "73ae241acf1a500b",
   "lastOpenFiles": [
-    "日记/2025-07-22.md",
+    "日记/2025-07-26.md",
+    "日记/2025-07-27.md",
+    "考研/408/计组/未命名 2.md",
     "考研/408/计组/计组 p49 题25 C语言混合类型比较与底层CPU标志位的深度辨析.md",
-    "考研/408/计组/计组概念总结_含不懂和错题.md",
-    "考研/408/计组/计组第5章习题_标题含义解读.md",
-    "考研/408/计组/十进制和二进制竖式运算和模的关系.md",
-    "考研/408/计组/5.4问题.md",
+    "考研/数学/不定积分计算.md",
     "考研/数学/武忠祥-强化-笔记.md",
+    "考研/数学/错题笔记.md",
+    "考研/数学/函数极限问题.md",
+    "考研/数学/基本定理证明练习.md",
+    "考研/数学/可积和原函数的关系.md",
+    "考研/数学/复合函数和求导法则证明.md",
+    "日记/规划.md",
+    "日记/快捷键.md",
+    "日记/渊虚之羽评价.md",
+    "日记/pandas 笔记.md",
+    "日记/2025-07/2025-07-25.md",
+    "日记/2025-07/2025-07-24.md",
+    "日记/2025-07/2025-07-23.md",
+    "日记/2025-07/2025-07-22.md",
+    "日记/2025-07/2025-07-21.md",
+    "日记/2025-07/2025-07-20.md",
+    "日记/2025-07/2025-07-19.md",
+    "日记/2025-07/2025-07-18.md",
+    "日记/2025-07/2025-07-17.md",
+    "日记/2025-07/2025-07-16.md",
+    "日记/2025-07/2025-07-15.md",
+    "日记/2025-07",
+    "日记/新建文件夹",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250724123301935.png",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250724123027860.png",
+    "考研/数学/基本定理证明练习.md_Attachments/基本定理证明练习-20250724121150245.png",
+    "考研/数学/基本定理证明练习.md_Attachments",
     "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722174323569.png",
     "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722171827866.png",
     "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722165252105.png",
@@ -297,28 +322,6 @@
     "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722164754362.png",
     "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722163020137.png",
     "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722163013732.png",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722163000629.png",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722162547536.png",
-    "考研/408/计组/无符号数的减法.md",
-    "考研/数学/错题笔记.md",
-    "考研/数学/数列极限的最大值和最小值相关命题及理解.md",
-    "日记/2025-07-21.md",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250721204819831.png",
-    "日记/2025-07-20.md",
-    "日记/规划.md",
-    "考研/408/计组/未命名.md",
-    "日记/2025-07-19.md",
-    "yt-dlp命令.md",
-    "Windows 修改 Powershell 和 Git 编码.md",
-    "日记/2025-07-18.md",
-    "考研/408/操作系统/作业, 程序, 进程的关系.md",
-    "2025_3_7 推文草案.md",
-    "重制故事：性爱启蒙.md",
-    "第1版本_故事.md",
-    "实习笔记.md",
-    "考研/数学/函数极限问题.md",
-    "考研/408/操作系统/错题笔记.md",
-    "日记/2025-07-17.md",
     "考研/数学/错题笔记.md_Attachments",
     "日记/2025-07-16.md_Attachments",
     "yt-dlp命令.md_Attachments/www.bilibili.com_cookies.txt",
@@ -326,9 +329,6 @@
     "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250715202127360.png.~tmp",
     "考研/数学/武忠祥-强化-笔记.md_Attachments",
     "考研/数学/函数极限问题.md_Attachments",
-    "_Templates",
-    "考研/英语/英语打卡.md_Attachments",
-    "考研/408/操作系统",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",
