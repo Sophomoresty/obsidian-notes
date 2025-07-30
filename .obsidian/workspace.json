@@ -4,109 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "ef662b957aea9dd7",
+        "id": "c1554f4c054a8793",
         "type": "tabs",
-        "dimension": 20.64156206415621,
+        "dimension": 14.492753623188404,
         "children": [
           {
-            "id": "ded113f207136090",
+            "id": "5e40e34dfa1866e9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025-07-27.md",
+                "file": "日记/2025-07-30.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-27 的大纲"
+              "title": "2025-07-30 的大纲"
             }
           }
         ]
       },
       {
-        "id": "43c1d5d164647aab",
+        "id": "d301c299bcc4e859",
         "type": "tabs",
-        "dimension": 79.3584379358438,
+        "dimension": 85.5072463768116,
         "children": [
           {
-            "id": "8b729dbf10de99c0",
+            "id": "f0b69450ef1a6f61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/数学/复合函数和求导法则证明.md",
+                "file": "日记/2025-07-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "复合函数和求导法则证明"
+              "title": "2025-07-30"
             }
           },
           {
-            "id": "7116ce5b52c206e0",
+            "id": "2baf470e3d12d24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/数学/不定积分计算.md",
+                "file": "考研/数学/数列极限的最大值和最小值相关命题及理解.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "不定积分计算"
-            }
-          },
-          {
-            "id": "24c3fd9bb8f24518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/数学/武忠祥-强化-笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "武忠祥-强化-笔记"
-            }
-          },
-          {
-            "id": "573431a054c7e74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/408/计组/计组 p49 题25 C语言混合类型比较与底层CPU标志位的深度辨析.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "计组 p49 题25 C语言混合类型比较与底层CPU标志位的深度辨析"
-            }
-          },
-          {
-            "id": "73ae241acf1a500b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2025-07-27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-27"
+              "title": "数列极限的最大值和最小值相关命题及理解"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5110321044922
+    "width": 249.5110321044922
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -256,11 +210,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 484.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,47 +236,47 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "73ae241acf1a500b",
+  "active": "f0b69450ef1a6f61",
   "lastOpenFiles": [
-    "日记/2025-07-26.md",
-    "日记/2025-07-27.md",
-    "考研/408/计组/未命名 2.md",
-    "考研/408/计组/计组 p49 题25 C语言混合类型比较与底层CPU标志位的深度辨析.md",
-    "考研/数学/不定积分计算.md",
     "考研/数学/武忠祥-强化-笔记.md",
+    "日记/2025-07-30.md",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250729210435195.png",
+    "考研/数学/未命名.md",
+    "考研/数学/数列极限的最大值和最小值相关命题及理解.md",
     "考研/数学/错题笔记.md",
     "考研/数学/函数极限问题.md",
-    "考研/数学/基本定理证明练习.md",
     "考研/数学/可积和原函数的关系.md",
-    "考研/数学/复合函数和求导法则证明.md",
+    "考研/数学/未命名 1.md",
+    "202507292038.md",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250729192621370.png",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250729183754344.png",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250729183752318.png",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250729183425756.png",
+    "考研/数学/不定积分计算.md",
+    "考研/408/计组/无符号数的减法.md",
+    "考研/408/计组/未命名 1.md",
+    "考研/408/计组/CF和OF.md",
+    "考研/408/计组/计组第4章名词联系.md",
+    "日记/2025-07-29.md",
     "日记/规划.md",
+    "日记/2025-07-27.md",
     "日记/快捷键.md",
-    "日记/渊虚之羽评价.md",
     "日记/pandas 笔记.md",
-    "日记/2025-07/2025-07-25.md",
-    "日记/2025-07/2025-07-24.md",
-    "日记/2025-07/2025-07-23.md",
-    "日记/2025-07/2025-07-22.md",
-    "日记/2025-07/2025-07-21.md",
-    "日记/2025-07/2025-07-20.md",
-    "日记/2025-07/2025-07-19.md",
-    "日记/2025-07/2025-07-18.md",
-    "日记/2025-07/2025-07-17.md",
-    "日记/2025-07/2025-07-16.md",
-    "日记/2025-07/2025-07-15.md",
+    "考研/数学/复合函数和求导法则证明.md",
+    "考研/数学/基本定理证明练习.md",
+    "日记/渊虚之羽评价.md",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250727125743014.png",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250727124057125.png",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250727121750356.png",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250727121730982.png",
+    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250727113730961.png",
+    "考研/数学/变上限积分求导.md",
+    "考研/408/计组/计组 p49 题25 C语言混合类型比较与底层CPU标志位的深度辨析.md",
+    "考研/408/计组/5.4问题.md",
+    "日记/2025-07-26.md",
     "日记/2025-07",
     "日记/新建文件夹",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250724123301935.png",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250724123027860.png",
-    "考研/数学/基本定理证明练习.md_Attachments/基本定理证明练习-20250724121150245.png",
     "考研/数学/基本定理证明练习.md_Attachments",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722174323569.png",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722171827866.png",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722165252105.png",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722164913939.png",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722164754362.png",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722163020137.png",
-    "考研/数学/武忠祥-强化-笔记.md_Attachments/武忠祥-强化-笔记-20250722163013732.png",
     "考研/数学/错题笔记.md_Attachments",
     "日记/2025-07-16.md_Attachments",
     "yt-dlp命令.md_Attachments/www.bilibili.com_cookies.txt",
