@@ -6,7 +6,7 @@
       {
         "id": "e0db382bf837fd58",
         "type": "tabs",
-        "dimension": 20.976491862567812,
+        "dimension": 13.477088948787062,
         "children": [
           {
             "id": "98b7eafb57748d9b",
@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025-08-14.md",
+                "file": "考研/数学/武忠祥强化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-08-14 的大纲"
+              "title": "武忠祥强化 的大纲"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "de72dfbd325e1130",
         "type": "tabs",
-        "dimension": 79.02350813743219,
+        "dimension": 86.52291105121293,
         "children": [
           {
             "id": "fd7fae198a7c416e",
@@ -36,77 +36,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/408/计组/2017 题13 多体存储器的两种访问方式理解.md",
+                "file": "考研/数学/武忠祥强化.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2017 题13 多体存储器的两种访问方式理解"
-            }
-          },
-          {
-            "id": "d26254e43c899ad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2025-08-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-14"
-            }
-          },
-          {
-            "id": "dada687e898c2b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人物提示词/静怡.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "静怡"
-            }
-          },
-          {
-            "id": "94b1a45716d301d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/数学/方向余弦.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "方向余弦"
-            }
-          },
-          {
-            "id": "6554a0ae6ac70a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2025-08-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-13"
+              "title": "武忠祥强化"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5110321044922
+    "width": 328.5110321044922
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -281,8 +220,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d26254e43c899ad0",
+  "active": "fd7fae198a7c416e",
   "lastOpenFiles": [
+    "考研/408/计网/CDMA.md",
+    "日记/规划.md",
+    "日记/2025-08-15.md",
+    "考研/408/计组/2015_题22_异常和中断.md",
+    "考研/408/计网/共享式以太网的争用期.md",
+    "考研/数学/武忠祥强化.md",
+    "考研/408/计网",
+    "考研/408/计组/虚拟存储器的概念和TCB命中, Cache不命中, Page命中的细节分析.md",
+    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250815133333056.png",
+    "考研/408/计组/2017 题13 多体存储器的两种访问方式理解.md",
+    "日记/2025-08-13.md",
+    "考研/数学/方向余弦.md",
+    "人物提示词/静怡.md",
+    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250815130215106.png",
+    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250815094010930.png",
+    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250815093926469.png",
+    "考研/数学/数列极限的最大值和最小值相关命题及理解.md",
+    "考研/408/计组/TLB中的表项和PTE的区别.md",
+    "日记/2025-08-14.md",
     "日记/2025-07/2025-07-31.md",
     "日记/2025-07/2025-07-14.md",
     "日记/2025-07/2025-07-11.md",
@@ -295,30 +253,12 @@
     "日记/2025-07/2025-07-03.md",
     "日记/2025-08-01.md",
     "日记/2025-08-03.md",
-    "日记/2025-08-14.md",
-    "日记/2025-08-13.md",
-    "日记/任务清单和时间安排.md",
-    "日记/pandas 笔记.md",
-    "日记/规划.md",
-    "日记/快捷键.md",
-    "人物提示词/静怡.md",
-    "考研/数学/武忠祥强化.md",
     "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250813180737060.png",
     "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250813173749555.png",
     "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250813162315835.png",
     "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250813162257527.png",
     "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250813155916875.png",
     "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250813155003688.png",
-    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250813152902043.png",
-    "考研/数学/函数极限问题.md",
-    "考研/数学/方向余弦.md",
-    "考研/数学/基本定理证明练习.md",
-    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250813142126922.png",
-    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250813133450495.png",
-    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250813131126908.png",
-    "考研/数学/多重积分的累次积分如何按序确定积分上下限.md",
-    "人物提示词/Gm.md",
-    "日记/2025-08-12.md",
     "考研/408/计组/多路选择器和译码器的区别.md_Attachments",
     "考研/数学/660复习.md_Attachments",
     "考研/408/计组/2013_题14_第4章.md_Attachments",
@@ -328,7 +268,6 @@
     "日记/新建文件夹",
     "考研/数学/基本定理证明练习.md_Attachments",
     "考研/数学/错题笔记.md_Attachments",
-    "日记/2025-07-16.md_Attachments",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",
