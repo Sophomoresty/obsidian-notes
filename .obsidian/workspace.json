@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e0db382bf837fd58",
+        "id": "406085b0106671dd",
         "type": "tabs",
-        "dimension": 20.392156862745097,
+        "dimension": 32.527759634225994,
         "children": [
           {
             "id": "98b7eafb57748d9b",
@@ -14,79 +14,114 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/数学/每日一题.md",
+                "file": "日记/2025-08-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "每日一题 的大纲"
+              "title": "2025-08-19 的大纲"
             }
           }
         ]
       },
       {
-        "id": "de72dfbd325e1130",
+        "id": "e0db382bf837fd58",
         "type": "tabs",
-        "dimension": 79.6078431372549,
+        "dimension": 67.472240365774,
         "children": [
           {
-            "id": "fd7fae198a7c416e",
+            "id": "519a0baaace51f08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/数学/武忠祥强化.md",
+                "file": "考研/408/计网/CDMA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "武忠祥强化"
+              "title": "CDMA"
             }
           },
           {
-            "id": "8360e4801e52679a",
+            "id": "e41031e21f2ccb00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/408/计网/共享式以太网的争用期.md",
+                "file": "考研/408/计网/以太网和因特网, 互联网的区别是什么.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "共享式以太网的争用期"
+              "title": "以太网和因特网, 互联网的区别是什么"
             }
           },
           {
-            "id": "b1d3d5d96181b7ec",
+            "id": "a0f1d9b9539423c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/数学/每日一题.md",
+                "file": "考研/数学/多重积分的累次积分如何按序确定积分上下限.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "每日一题"
+              "title": "多重积分的累次积分如何按序确定积分上下限"
             }
           },
           {
-            "id": "6c5df17845115305",
+            "id": "660922e86d295a5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-08-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2025-08-19"
+            }
+          },
+          {
+            "id": "9cb11116b41e611e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/408/计网/CDMA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "CDMA"
+            }
+          },
+          {
+            "id": "2847bb5f5e02cd0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-08-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-19"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5110321044922
+    "width": 201.5110321044922
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -236,7 +271,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -244,6 +279,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "zk-prefixer:创建时间戳笔记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -261,54 +297,54 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b1d3d5d96181b7ec",
+  "active": "2847bb5f5e02cd0a",
   "lastOpenFiles": [
+    "考研/408/计网/王道书习题错题.md",
+    "考研/数学/多重积分的累次积分如何按序确定积分上下限.md",
+    "日记/2025-08-19.md",
+    "日记/规划.md",
+    "人物提示词/爱情公寓.md",
+    "实习笔记.md",
+    "考研/数学/武忠祥强化.md",
+    "考研/408/计网/CDMA.md",
+    "考研/408/计网/以太网和因特网, 互联网的区别是什么.md",
+    "考研/408/计网/2019年题37.md",
+    "考研/408/计网/共享式以太网的争用期.md",
+    "考研/408/计网/应用层协议哪些是有连接的, 哪些是无连接的.md",
+    "考研/408/计网/王道书习题错题.md_Attachments/王道书习题错题-20250819201533357.png",
+    "考研/408/计网/王道书习题错题.md_Attachments",
+    "考研/数学/李永乐线代强化.md",
+    "考研/数学/李永乐线代强化.md_Attachments/李永乐线代强化-20250819172749520.png",
+    "考研/数学/李永乐线代强化.md_Attachments",
+    "考研/数学/错题笔记.md",
+    "考研/数学/每日一题.md",
+    "考研/408/计网/tcp和udp连接.md",
+    "考研/数学/每日一题.md_Attachments/每日一题-20250819094853746.png",
+    "考研/数学/每日一题.md_Attachments/每日一题-20250819094542445.png",
+    "日记/2025-08-17.md",
+    "日记/2025-08-19.md_Attachments/2025-08-19-20250819090441346.png",
+    "日记/2025-08-19.md_Attachments",
+    "日记/2025-08-18.md",
     "考研/数学/每日一题.md_Attachments/每日一题-20250818141647713.png",
     "考研/数学/每日一题.md_Attachments/每日一题-20250818141629723.png",
-    "考研/数学/武忠祥强化.md",
-    "日记/2025-08-18.md",
-    "日记/规划.md",
     "日记/快捷键.md",
-    "日记/2025-08-17.md",
-    "考研/数学/每日一题.md",
     "考研/数学/每日一题.md_Attachments/每日一题-20250817194340152.png",
     "考研/408/操作系统/笔记.md",
-    "考研/408/计网/2019年题37.md",
-    "考研/408/计网/CDMA.md",
-    "考研/408/计网/共享式以太网的争用期.md",
     "考研/408/操作系统/作业, 程序, 进程的关系.md",
     "日记/2025-08-15.md",
     "日记/2025-08-16.md",
     "考研/数学/每日一题.md_Attachments/每日一题-20250816174304970.png",
     "考研/数学/每日一题.md_Attachments/每日一题-20250816174114881.png",
-    "考研/数学/每日一题.md_Attachments/每日一题-20250816173923412.png",
     "考研/数学/每日一题.md_Attachments",
-    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250816101906709.png",
     "和Gemini的对话_8_7_感动.md",
-    "实习笔记.md",
     "2025_3_7 推文草案.md",
     "Windows 修改 Powershell 和 Git 编码.md",
-    "yt-dlp命令.md",
-    "存档/第1版本_故事.md",
-    "存档/重制故事：性爱启蒙.md",
     "存档",
-    "日记/2025-08/2025-08-02.md",
-    "日记/2025-08/2025-08-03.md",
-    "日记/2025-08/2025-08-04.md",
-    "日记/2025-08/2025-08-05.md",
-    "日记/2025-08/2025-08-06.md",
     "日记/2025-08",
     "日记/20",
     "日记/新建文件夹",
     "考研/408/计网",
-    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250815133333056.png",
-    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250815130215106.png",
-    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250815094010930.png",
-    "考研/数学/武忠祥强化.md_Attachments/武忠祥强化-20250815093926469.png",
     "考研/408/计组/多路选择器和译码器的区别.md_Attachments",
-    "考研/数学/660复习.md_Attachments",
-    "考研/408/计组/2013_题14_第4章.md_Attachments",
-    "考研/数学/方向余弦.md_Attachments",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",
