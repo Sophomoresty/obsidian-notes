@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "406085b0106671dd",
+        "id": "5171bd245f45e468",
         "type": "tabs",
-        "dimension": 19.96381182147165,
         "children": [
           {
-            "id": "98b7eafb57748d9b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "日记/2025-08-24.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "2025-08-24 的大纲"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e0db382bf837fd58",
-        "type": "tabs",
-        "dimension": 80.03618817852835,
-        "children": [
-          {
-            "id": "4157ff8d03df0a59",
+            "id": "0dd22894227821e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-08-24.md",
+                "file": "日记/2025-08-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-24"
+              "title": "2025-08-25"
             }
           }
         ]
@@ -102,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5110321044922
+    "width": 200
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -118,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2025-08-24.md",
+                "file": "日记/2025-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-08-24 的反向链接列表"
+              "title": "2025-08-25 的反向链接列表"
             }
           },
           {
@@ -221,8 +198,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4157ff8d03df0a59",
+  "active": "0dd22894227821e4",
   "lastOpenFiles": [
+    "日记/2025-08-23.md",
+    "Windows 修改 Powershell 和 Git 编码.md",
+    "未命名.md",
+    "日记/2025-08-25.md",
+    "考研/微积分/武忠祥强化.md",
+    "考研/微积分/tanx用幂级数求高阶导数.md",
+    "考研/微积分/每日一题.md",
+    "考研/微积分/每日一题.md_Attachments/每日一题-20250825101319928.png",
+    "考研/微积分/每日一题.md_Attachments/每日一题-20250825093506537.png",
+    "考研/微积分/每日一题.md_Attachments/每日一题-20250825093203340.png",
+    "日记/2025-08-24.md",
     "考研/408/计网/2019年题37.md",
     "考研/408/计网/第1章计算概念的理解.md",
     "考研/408/计网/CSMA CD协议的进一步理解.md",
@@ -234,31 +222,20 @@
     "考研/408/计网/第6章错题.md",
     "考研/408/计网/第2章 奈奎斯特和香农公式.md",
     "考研/线性代数/主对角线减去副对角线.md",
-    "日记/2025-08-24.md",
-    "考研/微积分/每日一题.md",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250824095404876.png",
     "日记/规划.md",
-    "日记/2025-08-23.md",
     "日记/2025-08-22.md",
     "日记/2025-08/2025-08-20.md",
     "日记/2025-08/2025-08-19.md",
     "日记/2025-08/2025-08-17.md",
     "日记/2025-08/2025-08-18.md",
     "日记/2025-08/2025-08-05.md",
-    "日记/2025-08/2025-08-03.md",
-    "日记/2025-08/2025-08-01.md",
-    "日记/2025-08-21.md",
-    "考研/408/计网/CDMA全解, 两种模式.md",
-    "考研/微积分/武忠祥强化.md",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250823100948601.png",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250823100833396.png",
     "考研/线性代数/李永乐线代强化.md_Attachments/李永乐线代强化-20250822110219352.png",
     "考研/线性代数/李永乐线代强化.md_Attachments/李永乐线代强化-20250822105628985.png",
     "考研/线性代数/李永乐线代强化.md_Attachments/李永乐线代强化-20250822105548123.png",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250822091832752.png",
-    "考研/微积分/错题笔记.md_Attachments/错题笔记-20250717172643465.png",
-    "考研/微积分/错题笔记.md_Attachments/错题笔记-20250717172626217.png",
-    "考研/微积分/错题笔记.md_Attachments/错题笔记-20250717162227157.png",
     "考研/微积分/错题笔记.md_Attachments",
     "考研/微积分/泰勒展开的最佳理解.md_Attachments",
     "考研/微积分/每日一题.md_Attachments",
