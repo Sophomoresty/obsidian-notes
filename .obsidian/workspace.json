@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "77e243cea033b00f",
+        "id": "a56d4793bc7a3598",
         "type": "tabs",
-        "dimension": 17.54626456477039,
+        "dimension": 24.857549857549856,
         "children": [
           {
             "id": "54a2233ea53d9643",
@@ -14,39 +14,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/规划.md",
+                "file": "考研/线性代数/姜晓千线代强化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "规划 的大纲"
+              "title": "姜晓千线代强化 的大纲"
             }
           }
         ]
       },
       {
-        "id": "5171bd245f45e468",
+        "id": "77e243cea033b00f",
         "type": "tabs",
-        "dimension": 82.4537354352296,
+        "dimension": 75.14245014245014,
         "children": [
           {
-            "id": "7d4940bd75f8cdfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/线性代数/生成集和span.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "生成集和span"
-            }
-          },
-          {
-            "id": "6778155cd4c43a0b",
+            "id": "a83e2ffee57f1a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,92 +46,52 @@
             }
           },
           {
-            "id": "f50b21f9f2dce903",
+            "id": "0cf777e74424e30a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/微积分/变上限积分求导.md",
+                "file": "考研/线性代数/生成集和span.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "变上限积分求导"
+              "title": "生成集和span"
             }
           },
           {
-            "id": "a7d4747208665f81",
+            "id": "5f4705fd60471c78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/408/数据结构/C,C++创建结构体的问题.md",
+                "file": "考研/线性代数/姜晓千线代强化.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "C,C++创建结构体的问题"
+              "title": "姜晓千线代强化"
             }
           },
           {
-            "id": "2128af00acbf2681",
+            "id": "5921382bc75023e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-08-28.md",
+                "file": "日记/2025-08-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-28"
-            }
-          },
-          {
-            "id": "adb99b2ff2ab1292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/英语/英语打卡.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "英语打卡"
-            }
-          },
-          {
-            "id": "02227319e131e73a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/规划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "规划"
-            }
-          },
-          {
-            "id": "de37257e0f215c2c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2025-08-30"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5110321044922
+    "width": 213.5110321044922
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -219,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/规划.md",
+                "file": "考研/线性代数/姜晓千线代强化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +174,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "规划 的反向链接列表"
+              "title": "姜晓千线代强化 的反向链接列表"
             }
           },
           {
@@ -296,11 +241,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,54 +267,54 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "02227319e131e73a",
+  "active": "5f4705fd60471c78",
   "lastOpenFiles": [
-    "日记/2025-08-29.md",
-    "日记/规划.md",
+    "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250830213559964.png",
+    "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250830212353687.png",
+    "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250830205916777.png",
+    "考研/微积分/武忠祥强化.md",
+    "考研/线性代数/姜晓千线代强化.md",
+    "考研/线性代数/李永乐线代强化.md",
+    "考研/线性代数/主对角线减去副对角线.md",
     "人物提示词/静怡.md",
+    "日记/2025-08-30.md",
     "考研/线性代数/生成集和span.md",
-    "考研/微积分/变上限积分求导.md",
     "考研/线性代数/第5章 问题.md",
+    "人物提示词/M.md",
+    "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250830184231259.png",
+    "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250830170114056.png",
+    "考研/线性代数/姜晓千线代强化.md_Attachments",
+    "考研/线性代数/线代问题.md",
+    "考研/线性代数/线代问题.md_Attachments/线代问题-20250830164632255.png",
+    "考研/线性代数/线代问题.md_Attachments",
+    "考研/线性代数/第4章 向量空间证明过程中的问题.md",
+    "考研/408/数据结构/-.md",
+    "考研/408/数据结构/未命名.md",
+    "考研/408/数据结构/未命名.base",
+    "考研/408/数据结构/练习递归描述.md",
+    "考研/408/计组/未命名.base",
+    "考研/408/计组/2017 题13 多体存储器的两种访问方式理解.md",
+    "考研/408/数据结构/算法.md",
+    "日记/8_30_朋友圈.md",
+    "考研/408/数据结构/C,C++创建结构体的问题.md",
+    "考研/英语/英语打卡.md",
+    "日记/2025-08-29.md",
+    "日记/2025-08-28.md",
+    "考研/微积分/tanx用幂级数求高阶导数.md",
+    "日记/规划.md",
+    "考研/微积分/变上限积分求导.md",
     "考研/线性代数/第5章 问题.md_Attachments/第5章 问题-20250829202339502.png",
     "考研/线性代数/第5章 问题.md_Attachments",
     "Windows 修改 Powershell 和 Git 编码.md",
-    "考研/408/数据结构/C,C++创建结构体的问题.md",
     "考研/408/数据结构",
-    "音乐刮削.md",
     "音乐刮削.md_Attachments/音乐刮削-20250829110204156.png",
     "音乐刮削.md_Attachments",
-    "日记/2025-08-28.md",
-    "日记/2025-08/2025-08-19.md",
-    "考研/微积分/每日一题.md",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250829082536551.png",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250829082459654.png",
-    "日记/2025-08-25.md",
-    "日记/2025-08-26.md",
-    "日记/2025-08-23.md",
-    "日记/2025-08/2025-08-17.md",
-    "日记/2025-08/2025-08-15.md",
-    "日记/2025-08/2025-08-16.md",
-    "日记/2025-08/2025-08-18.md",
-    "日记/2025-08-27.md",
-    "日记/2025-08-24.md",
-    "日记/2025-08-22.md",
-    "考研/线性代数/第4章 向量空间证明过程中的问题.md",
     "考研/线性代数/第4章 向量空间证明过程中的问题.md_Attachments/第4章 向量空间证明过程中的问题-20250828200815128.png",
-    "考研/线性代数/第4章 向量空间证明过程中的问题.md_Attachments/第4章 向量空间证明过程中的问题-20250828194509687.png",
-    "考研/线性代数/第4章 向量空间证明过程中的问题.md_Attachments/第4章 向量空间证明过程中的问题-20250828193530081.png",
-    "考研/线性代数/第4章 向量空间证明过程中的问题.md_Attachments/第4章 向量空间证明过程中的问题-20250828193517769.png",
-    "考研/线性代数/第4章 向量空间证明过程中的问题.md_Attachments/第4章 向量空间证明过程中的问题-20250828193451050.png",
-    "考研/线性代数/第4章 向量空间证明过程中的问题.md_Attachments/第4章 向量空间证明过程中的问题-20250828190614773.png",
-    "考研/英语/真题阅读.md",
-    "考研/微积分/微分算子法.md",
-    "考研/英语/英语打卡.md",
     "考研/微积分/微分算子法.md_Attachments",
     "微分算子法/info.json",
     "微分算子法/assets",
-    "微分算子法",
-    "微分算子发/info.json",
-    "微分算子发/assets",
-    "微分算子发",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",
