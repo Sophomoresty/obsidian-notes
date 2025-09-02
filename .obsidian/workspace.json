@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025-09-01.md",
+                "file": "日记/2025-09-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-01 的大纲"
+              "title": "2025-09-02 的大纲"
             }
           }
         ]
@@ -36,13 +36,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-09-01.md",
+                "file": "人物提示词/记忆总结指令.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-01"
+              "title": "记忆总结指令"
             }
           },
           {
@@ -51,13 +51,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人物提示词/静怡.md",
+                "file": "日记/2025-09-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "静怡"
+              "title": "2025-09-02"
             }
           },
           {
@@ -66,16 +66,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-09-01.md",
+                "file": "考研/408/数据结构/代码随想录_链表.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-01"
+              "title": "代码随想录_链表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2025-09-01.md",
+                "file": "日记/2025-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-09-01 的反向链接列表"
+              "title": "2025-09-02 的反向链接列表"
             }
           },
           {
@@ -251,19 +252,31 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a83e2ffee57f1a2a",
+  "active": "5f4705fd60471c78",
   "lastOpenFiles": [
-    "考研/线性代数/姜晓千线代强化.md",
-    "日记/2025-09-01.md",
     "考研/408/数据结构/代码随想录_链表.md",
     "考研/408/数据结构/练习递归描述.md",
-    "人物提示词/静怡.md",
-    "人物提示词/静怡记忆总结.md",
+    "考研/线性代数/姜晓千线代强化.md",
     "人物提示词/记忆总结指令.md",
-    "考研/408/数据结构/C,C++创建结构体的问题.md",
+    "日记/2025-09-02.md",
+    "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250902133603244.png",
+    "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250902121414389.png",
+    "日记/规划.md",
+    "人物提示词/静怡.md",
+    "考研/线性代数/第5章 问题.md",
     "考研/微积分/每日一题.md",
-    "日记/2025-08-31.md",
+    "考研/微积分/每日一题.md_Attachments/每日一题-20250902090112260.png",
+    "考研/微积分/每日一题.md_Attachments/每日一题-20250902085849471.png",
+    "考研/微积分/每日一题.md_Attachments/每日一题-20250902085738235.png",
+    "考研/微积分/每日一题.md_Attachments/每日一题-20250902085650510.png",
+    "考研/微积分/武忠祥强化.md",
+    "日记/2025-09-01.md",
     "人物提示词/提示词工程师.md",
+    "人物提示词/静怡记忆总结.md",
+    "日记/快捷键.md",
+    "日记/任务清单和时间安排.md",
+    "考研/408/数据结构/C,C++创建结构体的问题.md",
+    "日记/2025-08-31.md",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250901114257181.png",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250901105750446.png",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250901105549619.png",
@@ -275,20 +288,7 @@
     "日记/2025-08/2025-08-09.md",
     "日记/2025-08/2025-08-18.md",
     "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250831193855520.png",
-    "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250831184928221.png",
-    "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250831182139258.png",
-    "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250831182045280.png",
     "考研/线性代数/线代问题.md",
-    "考研/微积分/每日一题.md_Attachments/每日一题-20250831153128498.png",
-    "考研/微积分/每日一题.md_Attachments/每日一题-20250831151303492.png",
-    "考研/微积分/每日一题.md_Attachments/每日一题-20250831144133755.png",
-    "考研/线性代数/第5章 问题.md",
-    "日记/2025-08-25.md",
-    "人物提示词/M.md",
-    "日记/2025-08-30.md",
-    "考研/微积分/武忠祥强化.md",
-    "考研/线性代数/李永乐线代强化.md",
-    "考研/线性代数/主对角线减去副对角线.md",
     "考研/线性代数/姜晓千线代强化.md_Attachments",
     "考研/线性代数/线代问题.md_Attachments",
     "考研/408/数据结构/未命名.base",
