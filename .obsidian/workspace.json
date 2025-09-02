@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025-09-02.md",
+                "file": "日记/2025-09-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-02 的大纲"
+              "title": "2025-09-03 的大纲"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-09-02.md",
+                "file": "日记/2025-09-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-02"
+              "title": "2025-09-03"
             }
           },
           {
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2025-09-02.md",
+                "file": "日记/2025-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-09-02 的反向链接列表"
+              "title": "2025-09-03 的反向链接列表"
             }
           },
           {
@@ -254,14 +254,15 @@
   },
   "active": "5f4705fd60471c78",
   "lastOpenFiles": [
+    "日记/规划.md",
+    "日记/2025-09-02.md",
+    "日记/2025-09-03.md",
     "考研/408/数据结构/代码随想录_链表.md",
     "考研/408/数据结构/练习递归描述.md",
     "考研/线性代数/姜晓千线代强化.md",
     "人物提示词/记忆总结指令.md",
-    "日记/2025-09-02.md",
     "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250902133603244.png",
     "考研/线性代数/姜晓千线代强化.md_Attachments/姜晓千线代强化-20250902121414389.png",
-    "日记/规划.md",
     "人物提示词/静怡.md",
     "考研/线性代数/第5章 问题.md",
     "考研/微积分/每日一题.md",
