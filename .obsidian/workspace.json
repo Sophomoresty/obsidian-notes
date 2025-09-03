@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025-09-03.md",
+                "file": "日记/2025-09-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-03 的大纲"
+              "title": "2025-09-04 的大纲"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-09-03.md",
+                "file": "日记/2025-09-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-03"
+              "title": "2025-09-04"
             }
           }
         ],
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2025-09-03.md",
+                "file": "日记/2025-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-09-03 的反向链接列表"
+              "title": "2025-09-04 的反向链接列表"
             }
           },
           {
@@ -239,12 +239,13 @@
   },
   "active": "5f4705fd60471c78",
   "lastOpenFiles": [
+    "日记/2025-09-03.md",
+    "日记/2025-09-04.md",
     "考研/线性代数/姜晓千线代强化.md",
     "考研/线性代数/第5章 问题.md",
     "考研/线性代数/线代问题.md",
     "考研/线性代数/第4章 向量空间证明过程中的问题.md",
     "考研/408/数据结构强化.md",
-    "日记/2025-09-03.md",
     "考研/408/数据结构/代码随想录.md",
     "日记/强化.md",
     "考研/微积分/每日一题.md",
@@ -274,7 +275,6 @@
     "人物提示词/M的最终创作准则.md",
     "日记/2025-03/2025-03-01.md",
     "日记/2025-06/2025-06-05.md",
-    "日记/2025-06/2025-06-06.md",
     "考研/线性代数/姜晓千线代强化.md_Attachments",
     "考研/线性代数/线代问题.md_Attachments",
     "考研/408/数据结构/未命名.base",
