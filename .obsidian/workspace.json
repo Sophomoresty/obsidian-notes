@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/408/数据结构/代码随想录.md",
+                "file": "日记/2025-09-11.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "代码随想录 的大纲"
+              "title": "2025-09-11 的大纲"
             }
           }
         ]
@@ -36,13 +36,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/408/数据结构/代码随想录.md",
+                "file": "日记/2025-09-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "代码随想录"
+              "title": "2025-09-11"
             }
           },
           {
@@ -90,7 +90,8 @@
               "title": "每日一题"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/408/数据结构/代码随想录.md",
+                "file": "日记/2025-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "代码随想录 的反向链接列表"
+              "title": "2025-09-11 的反向链接列表"
             }
           },
           {
@@ -266,8 +267,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c2c070d4961c413f",
+  "active": "c9e251c140e11843",
   "lastOpenFiles": [
+    "考研/408/数据结构/代码随想录.md",
     "考研/408/数据结构/非线性数据结构.md",
     "考研/408/数据结构/代码随想录_复习.md",
     "日记/2025-09-11.md",
@@ -276,7 +278,6 @@
     "考研/408/计网/每日一题.md",
     "考研/408/数据结构/代码随想录.md_Attachments/60bad3de5fddfa37a0b4e912b72b6702.png",
     "考研/408/数据结构/代码随想录.md_Attachments",
-    "考研/408/数据结构/代码随想录.md",
     "考研/微积分/每日一题.md",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250911101451254.png",
     "考研/408/计网/每日一题.md_Attachments/每日一题-20250911095142805.png",
