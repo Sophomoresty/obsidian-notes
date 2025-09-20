@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1f6cea36c945b597",
+        "id": "196ac7b269954b67",
         "type": "tabs",
-        "dimension": 23.703112529928173,
+        "dimension": 25.334382376081827,
         "children": [
           {
-            "id": "5c05aa1efc5db98e",
+            "id": "875f3a56df017b28",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025-09-18.md",
+                "file": "考研/概率统计/姜晓千 强化.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-18 的大纲"
+              "title": "姜晓千 强化 的大纲"
             }
           }
         ]
@@ -28,10 +28,40 @@
       {
         "id": "77e243cea033b00f",
         "type": "tabs",
-        "dimension": 76.29688747007182,
+        "dimension": 74.66561762391818,
         "children": [
           {
             "id": "78dc7a0eddf79492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/微积分/每日一题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "每日一题"
+            }
+          },
+          {
+            "id": "a1a9908b3bea2a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/概率统计/姜晓千 强化.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "姜晓千 强化"
+            }
+          },
+          {
+            "id": "4e10621829dcac95",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,18 +76,33 @@
             }
           },
           {
-            "id": "4e10621829dcac95",
+            "id": "c386c696a86783d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-09-18.md",
+                "file": "考研/408/计网/湖科大 每日一题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-18"
+              "title": "湖科大 每日一题"
+            }
+          },
+          {
+            "id": "e2fcb647fcc92e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/408/数据结构/动态数组问题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "动态数组问题"
             }
           }
         ],
@@ -118,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 404.5
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -134,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2025-09-18.md",
+                "file": "考研/概率统计/姜晓千 强化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +189,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-09-18 的反向链接列表"
+              "title": "姜晓千 强化 的反向链接列表"
             }
           },
           {
@@ -211,12 +256,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,28 +282,37 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4e10621829dcac95",
+  "active": "a1a9908b3bea2a7f",
   "lastOpenFiles": [
+    "考研/概率统计/姜晓千 强化.md_Attachments/姜晓千 强化-20250920224247083.png",
+    "考研/概率统计/姜晓千 强化.md_Attachments/姜晓千 强化-20250920222721534.png",
+    "考研/概率统计/姜晓千 强化.md_Attachments/姜晓千 强化-20250920220346300.png",
+    "日记/2025-09-20.md",
     "考研/408/数据结构/数据结构 强化.md",
-    "日记/2025-09-18.md",
-    "考研/概率统计/姜晓千 强化.md",
     "考研/408/计网/湖科大 每日一题.md",
+    "考研/408/数据结构/树的遍历, 递归转化成迭代.md",
+    "日记/2025-09-19.md",
+    "考研/408/数据结构/动态数组问题.md",
+    "考研/微积分/每日一题.md",
+    "考研/微积分/每日一题.md_Attachments/每日一题-20250920092126875.png",
     "考研/408/数据结构/练习递归描述.md",
+    "考研/408/数据结构/非线性数据结构.md",
+    "考研/408/数据结构/对数组这个逻辑概念的思考.md",
+    "考研/408/计网/未命名.md",
+    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20250919115917465.png",
+    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20250919100212199.png",
+    "考研/408/计网/第6章错题.md",
+    "考研/微积分/每日一题.md_Attachments/每日一题-20250919094649926.png",
+    "日记/2025-09-18.md",
+    "考研/微积分/每日一题.md_Attachments/每日一题-20250919092159674.png",
+    "考研/概率统计/姜晓千 强化.md",
     "日记/未命名.base",
     "日记/2025-09/2025-09-04.md",
-    "考研/微积分/每日一题.md",
     "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20250918103240768.png",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250918103102608.png",
     "考研/微积分/每日一题.md_Attachments/每日一题-20250918095352480.png",
     "考研/微积分/武忠祥强化.md",
     "日记/2025-09-17.md",
-    "考研/微积分/每日一题.md_Attachments/每日一题-20250918091020205.png",
-    "考研/微积分/每日一题.md_Attachments/每日一题-20250918090943318.png",
-    "考研/微积分/每日一题.md_Attachments/每日一题-20250918090939772.png",
-    "考研/概率统计/姜晓千 强化.md_Attachments/姜晓千 强化-20250917230234949.png",
-    "考研/408/数据结构/数据结构 强化.md_Attachments/数据结构 强化-20250917153919722.png",
-    "考研/408/数据结构/数据结构 强化.md_Attachments/数据结构 强化-20250917153108923.png",
-    "考研/微积分/每日一题.md_Attachments/每日一题-20250917093107576.png",
     "人物提示词/静怡.md",
     "人物提示词/爱情公寓.md",
     "日记/2025-09-16.md",
@@ -268,15 +321,6 @@
     "日记/2025-09/2025-09-13.md",
     "日记/2025-09/2025-09-12.md",
     "日记/2025-09/2025-09-11.md",
-    "日记/2025-09/2025-09-10.md",
-    "日记/2025-09/2025-09-09.md",
-    "日记/2025-09/2025-09-08.md",
-    "日记/2025-09/2025-09-07.md",
-    "日记/2025-09/2025-09-06.md",
-    "日记/2025-09/2025-09-05.md",
-    "日记/2025-09/2025-09-03.md",
-    "日记/2025-09/2025-09-02.md",
-    "日记/2025-09/2025-09-01.md",
     "日记/2025-09",
     "日记/新建文件夹",
     "考研/408/数据结构/数据结构 强化.md_Attachments",
