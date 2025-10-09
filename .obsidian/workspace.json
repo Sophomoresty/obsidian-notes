@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/概率统计/姜晓千 概统 强化7-9.md",
+                "file": "考研/英语/唐迟_阅读.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "姜晓千 概统 强化7-9 的大纲"
+              "title": "唐迟_阅读 的大纲"
             }
           }
         ]
@@ -31,52 +31,52 @@
         "dimension": 72.95796986518636,
         "children": [
           {
-            "id": "b3859bded0d69f44",
+            "id": "c9b12ffcbce8c96d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/概率统计/姜晓千 概统 强化7-9.md",
+                "file": "考研/英语/唐迟_阅读.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "姜晓千 概统 强化7-9"
+              "title": "唐迟_阅读"
             }
           },
           {
-            "id": "e690fa2bb5788d51",
+            "id": "d95309837f7ef27a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/微积分/武老 每日一题 326-.md",
+                "file": "考研/英语/唐迟_阅读.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "武老 每日一题 326-"
+              "title": "唐迟_阅读"
             }
           },
           {
-            "id": "50723b76c7ef2ae0",
+            "id": "2f667ce46218e09b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-10-05.md",
+                "file": "考研/408/计网/湖科大 每日一题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-05"
+              "title": "湖科大 每日一题"
             }
           },
           {
-            "id": "11bcba2d18c68c46",
+            "id": "c223651bd1ee8688",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,7 +90,8 @@
               "title": "姜晓千 线代 强化"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sec",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/概率统计/姜晓千 概统 强化7-9.md",
+                "file": "考研/英语/唐迟_阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "姜晓千 概统 强化7-9 的反向链接列表"
+              "title": "唐迟_阅读 的反向链接列表"
             }
           },
           {
@@ -254,54 +255,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3859bded0d69f44",
+  "active": "d95309837f7ef27a",
   "lastOpenFiles": [
-    "考研/概率统计/姜晓千 概统 强化7-9.md_Attachments/姜晓千 概统 强化7-9-20251005220716991.png",
-    "考研/概率统计/姜晓千 概统 强化7-9.md_Attachments/姜晓千 概统 强化7-9-20251005195759141.png",
-    "考研/概率统计/姜晓千 概统 强化7-9.md_Attachments/姜晓千 概统 强化7-9-20251005191514393.png",
-    "考研/概率统计/姜晓千 概统 强化7-9.md_Attachments/姜晓千 概统 强化7-9-20251005191501455.png",
-    "考研/概率统计/姜晓千 概统 强化7-9.md_Attachments/姜晓千 概统 强化7-9-20251005180258569.png",
-    "考研/概率统计/姜晓千 概统 强化7-9.md_Attachments/姜晓千 概统 强化7-9-20251005175053502.png",
-    "考研/概率统计/姜晓千 概统 强化7-9.md_Attachments/姜晓千 概统 强化7-9-20251005173925404.png",
-    "考研/概率统计/姜晓千 概统 强化7-9.md_Attachments/姜晓千 概统 强化7-9-20251005173717327.png",
-    "日记/2025-10-05.md",
+    "考研/英语/强化 真题.md",
+    "考研/英语/英语打卡.md",
+    "考研/英语/真题阅读.md",
+    "考研/英语/唐迟_阅读.md",
+    "考研/概率统计/姜晓千 概统 强化1-6.md",
+    "日记/2025-10-09.md",
+    "日记/2025-10-09.md_Attachments/2025-10-09-20251009214545305.png",
+    "日记/2025-10-09.md_Attachments",
     "考研/线性代数/姜晓千 线代 强化.md",
+    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009200200881.png",
+    "考研/线性代数/李永乐线代强化.md",
+    "考研/线性代数/生成集和span.md",
+    "考研/线性代数/主对角线减去副对角线.md",
+    "考研/线性代数/线代问题.md",
+    "考研/线性代数/第5章 证明.md",
     "考研/线性代数/第4章 向量空间证明过程中的问题.md",
-    "人物提示词/记忆总结指令.md",
-    "人物提示词/静怡指示词.md",
-    "人物提示词/静怡记忆总结.md",
-    "考研/概率统计/姜晓千 概统 强化7-9.md",
+    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009191515471.png",
+    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009190658440.png",
+    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009185824537.png",
+    "考研/408/计网/湖科大 每日一题.md",
+    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009173705114.png",
+    "考研/微积分/微分算子法.md",
+    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009163824241.png",
+    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009162423294.png",
+    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009161556694.png",
+    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009161554523.png",
     "考研/微积分/武老 每日一题 326-.md",
-    "考研/408/数据结构/强化4+5 查找和排序.md",
-    "考研/微积分/和式极限 定积分类型.md",
-    "考研/微积分/和式极限 定积分类型.md_Attachments/和式极限 定积分类型-20251005152657668.png",
-    "考研/微积分/武老 每日一题 326-.md_Attachments/武老 每日一题 326--20251005151020604.png",
     "考研/微积分/武老 每日一题 280-325.md",
-    "考研/微积分/错题笔记.md",
-    "考研/微积分/和式极限 定积分类型.md_Attachments/和式极限 定积分类型-20251005150826934.png",
+    "日记/2025-10-08.md",
+    "日记/2025-10-08.md_Attachments",
+    "考研/408/计网/VLAN的真正理解.md",
+    "考研/微积分/武忠祥 微积分 强化.md",
+    "和Gemini的对话_8_7_感动.md",
+    "人物提示词/静怡指示词.md",
+    "日记/2025-10-07.md",
+    "日记/2025-10-06.md",
+    "日记/2025-10-05.md",
+    "考研/408/计组/计组 强化.md",
+    "考研/408/计组/计组 强化.md_Attachments",
     "考研/微积分/和式极限 定积分类型.md_Attachments",
-    "考研/微积分/660复习.md",
-    "考研/微积分/2025-09-07 微分方程进化理解, 高阶常系数非齐次线性微分方程.md",
-    "考研/408/数据结构/强化3 非线性数据结构.md",
-    "考研/408/数据结构/卡特兰数.md",
-    "考研/408/计组/计组 p49 题25 C语言混合类型比较与底层CPU标志位的深度辨析.md",
-    "考研/408/计组/虚拟存储器的概念和TCB命中, Cache不命中, Page命中的细节分析.md",
-    "考研/微积分/导函数是连续的吗.md",
-    "考研/微积分/多重积分的累次积分如何按序确定积分上下限.md",
-    "考研/微积分/复合函数的可导性 基本定理证明练习.md",
-    "考研/微积分/复合函数和求导法则证明.md",
-    "考研/微积分/函数极限问题.md",
-    "考研/微积分/可积和原函数的关系.md",
-    "考研/微积分/泰勒展开的最佳理解.md",
     "考研/微积分/武老 每日一题 326-.md_Attachments",
     "考研/微积分/微分方程大总结 2025-10-01.md_Attachments",
     "考研/概率统计/姜晓千 概统 强化7-9.md_Attachments",
     "考研/408/数据结构/强化5 排序算法总结.md_Attachments",
     "考研/408/数据结构/强化5 外部排序.md_Attachments",
     "日记/未命名.base",
-    "日记/2025-09",
-    "日记/新建文件夹",
-    "考研/408/数据结构/强化4+5 查找和排序.md_Attachments",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",
