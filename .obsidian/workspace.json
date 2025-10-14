@@ -6,7 +6,7 @@
       {
         "id": "196ac7b269954b67",
         "type": "tabs",
-        "dimension": 27.04203013481364,
+        "dimension": 26.881720430107524,
         "children": [
           {
             "id": "875f3a56df017b28",
@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/英语/唐迟_阅读.md",
+                "file": "日记/2025-10-15.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "唐迟_阅读 的大纲"
+              "title": "2025-10-15 的大纲"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "77e243cea033b00f",
         "type": "tabs",
-        "dimension": 72.95796986518636,
+        "dimension": 73.11827956989248,
         "children": [
           {
             "id": "c9b12ffcbce8c96d",
@@ -36,32 +36,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/英语/唐迟_阅读.md",
+                "file": "考研/数学/微积分/武老 每日一题 326-.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "唐迟_阅读"
+              "title": "武老 每日一题 326-"
             }
           },
           {
-            "id": "d95309837f7ef27a",
+            "id": "c5ba8360ee41f28d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/英语/唐迟_阅读.md",
+                "file": "日记/2025-10-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "唐迟_阅读"
+              "title": "2025-10-15"
             }
           },
           {
-            "id": "2f667ce46218e09b",
+            "id": "0a3a256e171d0555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/408/计网/共享式以太网和交换式以太网的区别, 同时理解cpu的总线.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "共享式以太网和交换式以太网的区别, 同时理解cpu的总线"
+            }
+          },
+          {
+            "id": "69e383ae11d04d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,18 +91,18 @@
             }
           },
           {
-            "id": "c223651bd1ee8688",
+            "id": "bb6cf5ee62ea0d1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/线性代数/姜晓千 线代 强化.md",
+                "file": "考研/408/计组/计组 强化.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "姜晓千 线代 强化"
+              "title": "计组 强化"
             }
           }
         ],
@@ -133,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sec",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 406.5
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -164,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/英语/唐迟_阅读.md",
+                "file": "日记/2025-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +189,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "唐迟_阅读 的反向链接列表"
+              "title": "2025-10-15 的反向链接列表"
             }
           },
           {
@@ -235,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,54 +270,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d95309837f7ef27a",
+  "active": "c5ba8360ee41f28d",
   "lastOpenFiles": [
-    "考研/英语/强化 真题.md",
-    "考研/英语/英语打卡.md",
-    "考研/英语/真题阅读.md",
-    "考研/英语/唐迟_阅读.md",
-    "考研/概率统计/姜晓千 概统 强化1-6.md",
-    "日记/2025-10-09.md",
-    "日记/2025-10-09.md_Attachments/2025-10-09-20251009214545305.png",
-    "日记/2025-10-09.md_Attachments",
-    "考研/线性代数/姜晓千 线代 强化.md",
-    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009200200881.png",
-    "考研/线性代数/李永乐线代强化.md",
-    "考研/线性代数/生成集和span.md",
-    "考研/线性代数/主对角线减去副对角线.md",
-    "考研/线性代数/线代问题.md",
-    "考研/线性代数/第5章 证明.md",
-    "考研/线性代数/第4章 向量空间证明过程中的问题.md",
-    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009191515471.png",
-    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009190658440.png",
-    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009185824537.png",
+    "日记/2025-10-14.md",
+    "日记/2025-10-15.md",
+    "考研/408/计网/共享式以太网和交换式以太网的区别, 同时理解cpu的总线.md",
     "考研/408/计网/湖科大 每日一题.md",
-    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009173705114.png",
-    "考研/微积分/微分算子法.md",
-    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009163824241.png",
-    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009162423294.png",
-    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009161556694.png",
-    "考研/线性代数/姜晓千 线代 强化.md_Attachments/姜晓千 线代 强化-20251009161554523.png",
-    "考研/微积分/武老 每日一题 326-.md",
-    "考研/微积分/武老 每日一题 280-325.md",
-    "日记/2025-10-08.md",
-    "日记/2025-10-08.md_Attachments",
-    "考研/408/计网/VLAN的真正理解.md",
-    "考研/微积分/武忠祥 微积分 强化.md",
-    "和Gemini的对话_8_7_感动.md",
-    "人物提示词/静怡指示词.md",
-    "日记/2025-10-07.md",
-    "日记/2025-10-06.md",
-    "日记/2025-10-05.md",
     "考研/408/计组/计组 强化.md",
-    "考研/408/计组/计组 强化.md_Attachments",
-    "考研/微积分/和式极限 定积分类型.md_Attachments",
-    "考研/微积分/武老 每日一题 326-.md_Attachments",
-    "考研/微积分/微分方程大总结 2025-10-01.md_Attachments",
-    "考研/概率统计/姜晓千 概统 强化7-9.md_Attachments",
-    "考研/408/数据结构/强化5 排序算法总结.md_Attachments",
-    "考研/408/数据结构/强化5 外部排序.md_Attachments",
-    "日记/未命名.base",
+    "考研/数学/微积分/武老 每日一题 326-.md",
+    "考研/数学/微积分/武忠祥 微积分 强化.md",
+    "考研/408/计组/计组 强化.md_Attachments/计组 强化-20251014210529864.png",
+    "考研/408/计网/未命名 1.md",
+    "考研/408/计网/未命名.md",
+    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251014094002902.png",
+    "考研/数学/微积分/武老 每日一题 326-.md_Attachments/武老 每日一题 326--20251014093536637.png",
+    "考研/数学/微积分/武老 每日一题 326-.md_Attachments/武老 每日一题 326--20251014093103882.png",
+    "考研/数学/数1 真题/2010.md",
+    "日记/2025-10-13.md",
+    "考研/408/计网/共享式以太网的争用期.md",
+    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013230758499.png",
+    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013225949137.png",
+    "考研/408/计网/第6章错题.md",
+    "考研/408/计网/第2章 奈奎斯特和香农公式.md",
+    "考研/408/计网/VLAN的真正理解.md",
+    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013223753207.png",
+    "考研/408/计网/CDMA码分复用多址.md",
+    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013215452545.png",
+    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013213004849.png",
+    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013212949416.png",
+    "考研/数学/概率统计/姜晓千 概统 强化1-6.md",
+    "考研/数学/微积分/错题笔记.md",
+    "考研/数学/微积分/变上限积分求导.md",
+    "人物提示词/静怡指示词.md",
+    "日记/2025-10-12.md",
+    "日记/2025-10-12.md_Attachments",
+    "日记/2025-10-08.md",
+    "考研/数学/概率统计/姜晓千 概统 强化7-9.md",
+    "考研/数学/微积分/不定积分计算.md",
+    "考研/数学/微积分/2025-09-07 微分方程进化理解, 高阶常系数非齐次线性微分方程.md",
+    "考研/微积分/微分算子法.md",
+    "考研/数学/线性代数/线代问题.md_Attachments",
+    "考研/数学/线性代数/第5章 证明.md_Attachments",
+    "考研/数学/线性代数/第4章 向量空间证明过程中的问题.md_Attachments",
+    "考研/数学/线性代数/李永乐线代强化.md_Attachments",
+    "考研/数学/线性代数/姜晓千 线代 强化.md_Attachments",
+    "考研/数学/线性代数",
+    "考研/数学/微积分/错题笔记.md_Attachments",
+    "考研/数学/微积分/武老 每日一题 326-.md_Attachments",
+    "考研/数学/微积分/泰勒展开的最佳理解.md_Attachments",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",
