@@ -4,109 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "196ac7b269954b67",
+        "id": "41a19da8f04d6925",
         "type": "tabs",
-        "dimension": 26.881720430107524,
         "children": [
           {
-            "id": "875f3a56df017b28",
+            "id": "eb050ea94b916162",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "日记/2025-10-15.md",
-                "followCursor": true,
-                "showSearch": true,
-                "searchQuery": ""
+                "file": "日记/2025-12-31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-list",
-              "title": "2025-10-15 的大纲"
+              "icon": "lucide-file",
+              "title": "2025-12-31"
+            }
+          },
+          {
+            "id": "322f1915d4ab1c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设 2025-11-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "毕设 2025-11-28"
+            }
+          },
+          {
+            "id": "eed2785017250185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-12-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-28"
             }
           }
         ]
-      },
-      {
-        "id": "77e243cea033b00f",
-        "type": "tabs",
-        "dimension": 73.11827956989248,
-        "children": [
-          {
-            "id": "c9b12ffcbce8c96d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/数学/微积分/武老 每日一题 326-.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "武老 每日一题 326-"
-            }
-          },
-          {
-            "id": "c5ba8360ee41f28d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2025-10-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-15"
-            }
-          },
-          {
-            "id": "0a3a256e171d0555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/408/计网/共享式以太网和交换式以太网的区别, 同时理解cpu的总线.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "共享式以太网和交换式以太网的区别, 同时理解cpu的总线"
-            }
-          },
-          {
-            "id": "69e383ae11d04d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/408/计网/湖科大 每日一题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "湖科大 每日一题"
-            }
-          },
-          {
-            "id": "bb6cf5ee62ea0d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/408/计组/计组 强化.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "计组 强化"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,9 +94,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "typora",
                 "matchingCase": true,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -158,12 +104,28 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
+          },
+          {
+            "id": "d9fe6f8cf1baf6ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/2025-12-31.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-12-31 的大纲"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 276.5004348754883
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -174,54 +136,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "862c43f7c344c1b6",
+            "id": "fd2ade068ea12764",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "733184b3cb915300",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2025-10-15.md",
+                "file": "日记/2025-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-10-15 的反向链接列表"
+              "title": "2025-12-31 的反向链接列表"
             }
           },
           {
-            "id": "e282ab906fd28ee5",
+            "id": "348256239cefebb4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2025-03-10.md",
+                "file": "日记/2025-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-03-10 的出链列表"
+              "title": "2025-12-03 的出链列表"
             }
           },
           {
-            "id": "b1316de90692e901",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "5db1e9fc7c22d564",
+            "id": "1870da9ed1613aed",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -236,26 +194,29 @@
             }
           },
           {
-            "id": "426e44241bf0a903",
+            "id": "a37363f7569a24e3",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
-      "zk-prefixer:创建时间戳笔记": false,
+      "bases:创建新数据库": true,
+      "zk-prefixer:创建时间戳笔记": true,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -263,61 +224,59 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
       "open-vscode:VSCode": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5ba8360ee41f28d",
+  "active": "eb050ea94b916162",
   "lastOpenFiles": [
-    "日记/2025-10-14.md",
-    "日记/2025-10-15.md",
-    "考研/408/计网/共享式以太网和交换式以太网的区别, 同时理解cpu的总线.md",
-    "考研/408/计网/湖科大 每日一题.md",
-    "考研/408/计组/计组 强化.md",
-    "考研/数学/微积分/武老 每日一题 326-.md",
-    "考研/数学/微积分/武忠祥 微积分 强化.md",
-    "考研/408/计组/计组 强化.md_Attachments/计组 强化-20251014210529864.png",
-    "考研/408/计网/未命名 1.md",
-    "考研/408/计网/未命名.md",
-    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251014094002902.png",
-    "考研/数学/微积分/武老 每日一题 326-.md_Attachments/武老 每日一题 326--20251014093536637.png",
-    "考研/数学/微积分/武老 每日一题 326-.md_Attachments/武老 每日一题 326--20251014093103882.png",
-    "考研/数学/数1 真题/2010.md",
-    "日记/2025-10-13.md",
-    "考研/408/计网/共享式以太网的争用期.md",
-    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013230758499.png",
-    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013225949137.png",
-    "考研/408/计网/第6章错题.md",
-    "考研/408/计网/第2章 奈奎斯特和香农公式.md",
-    "考研/408/计网/VLAN的真正理解.md",
-    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013223753207.png",
-    "考研/408/计网/CDMA码分复用多址.md",
-    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013215452545.png",
-    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013213004849.png",
-    "考研/408/计网/湖科大 每日一题.md_Attachments/湖科大 每日一题-20251013212949416.png",
-    "考研/数学/概率统计/姜晓千 概统 强化1-6.md",
-    "考研/数学/微积分/错题笔记.md",
-    "考研/数学/微积分/变上限积分求导.md",
-    "人物提示词/静怡指示词.md",
-    "日记/2025-10-12.md",
-    "日记/2025-10-12.md_Attachments",
-    "日记/2025-10-08.md",
-    "考研/数学/概率统计/姜晓千 概统 强化7-9.md",
-    "考研/数学/微积分/不定积分计算.md",
-    "考研/数学/微积分/2025-09-07 微分方程进化理解, 高阶常系数非齐次线性微分方程.md",
-    "考研/微积分/微分算子法.md",
-    "考研/数学/线性代数/线代问题.md_Attachments",
-    "考研/数学/线性代数/第5章 证明.md_Attachments",
-    "考研/数学/线性代数/第4章 向量空间证明过程中的问题.md_Attachments",
-    "考研/数学/线性代数/李永乐线代强化.md_Attachments",
-    "考研/数学/线性代数/姜晓千 线代 强化.md_Attachments",
-    "考研/数学/线性代数",
-    "考研/数学/微积分/错题笔记.md_Attachments",
-    "考研/数学/微积分/武老 每日一题 326-.md_Attachments",
-    "考研/数学/微积分/泰勒展开的最佳理解.md_Attachments",
+    "日记/2025-12-30.md",
+    "日记/2025-12-31.md",
+    "日记/2025-12-29.md",
+    "毕设开题报告.md",
+    "在Python和MATLAB环境中，最优的实现策略.md",
+    "2025_3_7 推文草案.md",
+    "毕设汇报-2025-11-13.md",
+    "毕设-2025-11-13.md",
+    "考研/408/计组/湖科大 计组 强化.md",
+    "毕设 2025-11-28.md",
+    "日记/2025-12-28.md",
+    "日记/2025-12/2025-12-27.md",
+    "日记/2025-12/2025-12-25.md",
+    "日记/2025-12/2025-12-24.md",
+    "日记/2025-12/2025-12-21.md",
+    "日记/2025-12/2025-12-20.md",
+    "日记/2025-12/2025-12-19.md",
+    "日记/2025-12/2025-12-18.md",
+    "日记/2025-12/2025-12-17.md",
+    "日记/2025-12/2025-12-16.md",
+    "日记/2025-12/2025-12-15.md",
+    "日记/2025-12/2025-12-14.md",
+    "日记/2025-12/2025-12-13.md",
+    "日记/2025-12/2025-12-12.md",
+    "日记/2025-12/2025-12-11.md",
+    "日记/2025-12-27.md",
+    "考研/408/计网/湖科大 计网 强化.md_Attachments.rar",
+    "考研/英语/20-25作文.md_Attachments/20-25作文-20251216160855120.png",
+    "考研/408/操作系统/大题/2016-47-磁盘.md_Attachments/2016-47-磁盘-20251219180801614.png",
+    "考研/408/操作系统/大题/2022-文件系统.md_Attachments/2022-文件系统-20251219174811439.png",
+    "考研/408/操作系统/大题/2016-47-磁盘.md_Attachments/2016-47-磁盘-20251219180757297.png",
+    "考研/408/操作系统/大题/2016-47-磁盘.md_Attachments",
+    "考研/408/操作系统/大题/2018-45-虚拟地址.md_Attachments/2018-45-虚拟地址-20251219180536334.png",
+    "考研/408/操作系统/大题/2018-45-虚拟地址.md_Attachments",
+    "考研/408/操作系统/大题/2025 程序代码.md_Attachments/2025 程序代码-20251219180046373.png",
+    "考研/408/操作系统/大题/2025 程序代码.md_Attachments",
+    "考研/408/操作系统/大题/2022-文件系统.md_Attachments",
+    "考研/数学/150/真题/2022.md_Attachments/2022-20251218163059323.png",
+    "考研/数学/150/真题/2022.md_Attachments/2022-20251218160216082.png",
+    "考研/数学/150/真题/2022.md_Attachments/2022-20251218155728028.png",
+    "考研/数学/150/真题/2022.md_Attachments/2022-20251218155703637.png",
+    "考研/数学/150/真题/2022.md_Attachments",
+    "考研/408/计组/计组大题/2016-45-14分.md_Attachments",
+    "考研/408/计组/计组大题/2016-44-9分.md_Attachments",
+    "考研/408/计组/计组大题/2018-44-15分-虚拟存储.md_Attachments",
+    "考研/英语/20-25作文.md_Attachments",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",

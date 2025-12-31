@@ -1,20 +1,14 @@
 [
-  "easy-typing-obsidian",
-  "canvas-mindmap",
-  "obsidian-excalidraw-plugin",
   "attachment-manager",
+  "backlink-cache",
+  "better-export-pdf",
   "calendar",
   "contribution-graph",
-  "tag-wrangler",
-  "image-magician",
-  "open-vscode",
-  "table-editor-obsidian",
-  "obsidian-style-settings",
-  "templater-obsidian",
   "editing-toolbar",
   "obsidian-enhancing-export",
-  "better-export-pdf",
-  "drawio-obsidian",
-  "obsidian-latex-suite",
-  "backlink-cache"
+  "image-magician",
+  "open-vscode",
+  "tag-wrangler",
+  "templater-obsidian",
+  "obsidian-style-settings"
 ]

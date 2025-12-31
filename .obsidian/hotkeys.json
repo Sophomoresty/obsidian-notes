@@ -72,14 +72,6 @@
       "key": "M"
     }
   ],
-  "outline:open": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Z"
-    }
-  ],
   "easy-typing-obsidian:easy-typing-goto-new-line-after-cur-line": [
     {
       "modifiers": [
@@ -112,6 +104,23 @@
         "Alt"
       ],
       "key": "W"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
     }
   ]
 }

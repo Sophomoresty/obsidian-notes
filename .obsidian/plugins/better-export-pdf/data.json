@@ -11,8 +11,9 @@
   "debug": false,
   "isTimestamp": false,
   "enabledCss": false,
+  "concurrency": "5",
   "prevConfig": {
-    "pageSize": "A3",
+    "pageSize": "A4",
     "marginType": "3",
     "showTitle": true,
     "open": true,
