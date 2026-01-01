@@ -1,4 +1,4 @@
-## 批量推送
+![[Git批量同步和拉取.md_Attachments/Gemini-_15]]## 批量推送
 
 ```zsh
 #!/bin/bash

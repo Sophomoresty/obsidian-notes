@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-12-31.md",
+                "file": "故事2.0整合.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-31"
+              "title": "故事2.0整合"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typora",
+                "query": "叶星河",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,17 +81,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2025-12-31.md",
+                "file": "故事2.0整合.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-31 的大纲"
+              "title": "故事2.0整合 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2025-12-31.md",
+                "file": "故事2.0整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-12-31 的反向链接列表"
+              "title": "故事2.0整合 的反向链接列表"
             }
           },
           {
@@ -181,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,34 +199,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9fe6f8cf1baf6ac",
+  "active": "0b80bf9a2d232b1c",
   "lastOpenFiles": [
-    "日记/2025-12/2025-12-30.md",
+    "故事2.0续.md",
+    "2025_3_7 推文草案.md",
+    "存档/第1版本_故事.md",
+    "第1版本_故事.md",
+    "2025-10-05.md",
+    "Git批量同步和拉取.md",
+    "第2版本_故事延续.md",
+    "桥桥超温柔.m3u8",
+    "故事2.0整合.md",
+    "第2版本.md",
+    "Git批量同步和拉取.md_Attachments/Gemini-_15.md",
+    "Git批量同步和拉取.md_Attachments",
+    "毕业设计/开题报告内容.md",
+    "毕业设计/工作汇报_2025-11-28.md",
+    "毕业设计/工作汇报_对话_2025-11-13.md",
+    "毕业设计/工作汇报_2025-11-13.md",
+    "毕业设计",
+    "新建文件夹",
     "日记/2025-12-31.md",
+    "日记/2025-12/2025-12-30.md",
     "日记/规划.md",
     "日记/2025-12/2025-12-28.md",
     "日记/2025-12/2025-12-29.md",
-    "毕设开题报告.md",
     "在Python和MATLAB环境中，最优的实现策略.md",
-    "2025_3_7 推文草案.md",
-    "毕设汇报-2025-11-13.md",
-    "毕设-2025-11-13.md",
     "考研/408/计组/湖科大 计组 强化.md",
-    "毕设 2025-11-28.md",
     "日记/2025-12/2025-12-27.md",
     "日记/2025-12/2025-12-25.md",
     "日记/2025-12/2025-12-24.md",
     "日记/2025-12/2025-12-21.md",
     "日记/2025-12/2025-12-20.md",
-    "日记/2025-12/2025-12-19.md",
-    "日记/2025-12/2025-12-18.md",
-    "日记/2025-12/2025-12-17.md",
-    "日记/2025-12/2025-12-16.md",
-    "日记/2025-12/2025-12-15.md",
-    "日记/2025-12/2025-12-14.md",
-    "日记/2025-12/2025-12-13.md",
-    "日记/2025-12/2025-12-12.md",
-    "日记/2025-12/2025-12-11.md",
     "考研/408/计网/湖科大 计网 强化.md_Attachments.rar",
     "考研/英语/20-25作文.md_Attachments/20-25作文-20251216160855120.png",
     "考研/408/操作系统/大题/2016-47-磁盘.md_Attachments/2016-47-磁盘-20251219180801614.png",
@@ -243,10 +247,6 @@
     "考研/数学/150/真题/2022.md_Attachments/2022-20251218155728028.png",
     "考研/数学/150/真题/2022.md_Attachments/2022-20251218155703637.png",
     "考研/数学/150/真题/2022.md_Attachments",
-    "考研/408/计组/计组大题/2016-45-14分.md_Attachments",
-    "考研/408/计组/计组大题/2016-44-9分.md_Attachments",
-    "考研/408/计组/计组大题/2018-44-15分-虚拟存储.md_Attachments",
-    "考研/英语/20-25作文.md_Attachments",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",
