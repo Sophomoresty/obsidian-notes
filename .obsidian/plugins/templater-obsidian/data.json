@@ -29,10 +29,10 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "_Templates/英语_语法_打卡作业片段.md",
-    "_Templates/英语_语法_每日模板.md"
+    "_Templates/AxMathUnwrap.md"
   ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "intellisense_render": 1
 }
