@@ -8,97 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb050ea94b916162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows 修改 Powershell 和 Git 编码.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows 修改 Powershell 和 Git 编码"
-            }
-          },
-          {
-            "id": "bb331c33ed68200d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毕设_演讲稿.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "毕设_演讲稿"
-            }
-          },
-          {
             "id": "2920a8a4688213b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "日记/2026-01-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
-            }
-          },
-          {
-            "id": "8d5c7dff477db849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "音乐刮削.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "音乐刮削"
-            }
-          },
-          {
-            "id": "bef466eb5b63d980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/英语_语法_每日模板.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "英语_语法_每日模板"
-            }
-          },
-          {
-            "id": "e11cfdf80ffe89ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/AxMathUnwrap.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "AxMathUnwrap"
+              "title": "2026-01-06"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,20 +81,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/408/操作系统/操作系统 强化笔记.md",
+                "file": "毕业设计/毕设_演讲稿_1.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "操作系统 强化笔记 的大纲"
+              "title": "毕设_演讲稿_1 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.500732421875
+    "width": 200
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -196,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
+                "file": "日记/2026-01-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 1 的反向链接列表"
+              "title": "2026-01-06 的反向链接列表"
             }
           },
           {
@@ -277,19 +201,25 @@
   },
   "active": "2920a8a4688213b8",
   "lastOpenFiles": [
-    "毕设_演讲稿.md",
-    "未命名.md",
-    "未命名 1.md",
-    "Windows 修改 Powershell 和 Git 编码.md",
-    "日记/2026-01-02.md",
+    "毕业设计/毕设_演讲稿_1.md",
+    "日记/2026-01-06.md",
+    "毕业设计/毕设_演讲稿.md",
+    "毕业设计/未命名.md",
+    "日记/2026-01-05.md",
     "考研/408/操作系统/操作系统 强化笔记.md",
+    "日记/2026-01-04.md",
+    "复试/机器学习.md",
+    "日记/2026-01-03.md",
+    "日记/2026-01-02.md",
+    "复试/Pytorch.md",
+    "未命名.md",
+    "Windows 修改 Powershell 和 Git 编码.md",
     "考研/408/计网/第6章 错题.md",
     "考研/408/计网/湖科大 计网 强化.md",
     "考研/数学/150/150 冲刺.md",
     "考研/数学/150/150 冲刺.md_Attachments/150 冲刺-20260102001512254.png",
     "考研/数学/150/150 冲刺.md_Attachments/150 冲刺-20260102001448918.png",
     "Untitled.md",
-    "复试/Pytorch.md",
     "_Templates/AxMathUnwrap.md",
     "_Templates/英语_语法_每日模板.md",
     "日记/2026-01-01.md",
@@ -300,14 +230,8 @@
     "Git批量同步和拉取.md",
     "PDF去除加密的软件.md",
     "第1版本_故事.md",
-    "故事/故事2.0续.md",
-    "故事/第2版本_故事延续.md",
-    "故事/第2版本.md",
-    "故事/第1版本_故事.md",
-    "故事/故事2.0整合.md",
     "故事/未命名",
     "故事",
-    "故事2.0整合.md",
     "桥桥超温柔.m3u8",
     "Git批量同步和拉取.md_Attachments",
     "毕业设计",
