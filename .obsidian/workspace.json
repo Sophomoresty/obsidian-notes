@@ -4,25 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "41a19da8f04d6925",
+        "id": "bd6ad1c7c4316850",
         "type": "tabs",
         "children": [
           {
-            "id": "2920a8a4688213b8",
+            "id": "cfbe8936899991f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-01-06.md",
+                "file": "复试/机器学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-06"
+              "title": "机器学习"
+            }
+          },
+          {
+            "id": "c49a187c5e832f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-01-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-09"
+            }
+          },
+          {
+            "id": "46defce98e695a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-01-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-08"
+            }
+          },
+          {
+            "id": "f54e3597cf4c5c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/408/操作系统/操作系统 强化笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "操作系统 强化笔记"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "叶星河",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,20 +127,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "毕业设计/毕设_演讲稿_1.md",
+                "file": "日记/2026-01-09.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "毕设_演讲稿_1 的大纲"
+              "title": "2026-01-09 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 461.500732421875
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -120,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2026-01-06.md",
+                "file": "日记/2026-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-01-06 的反向链接列表"
+              "title": "2026-01-09 的反向链接列表"
             }
           },
           {
@@ -180,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,21 +245,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2920a8a4688213b8",
+  "active": "c49a187c5e832f65",
   "lastOpenFiles": [
-    "毕业设计/毕设_演讲稿_1.md",
+    "日记/2026-01-08.md",
+    "日记/2026-01-09.md",
+    "考研/408/操作系统/操作系统 强化笔记.md",
+    "复试/力扣算法刷题.md",
+    "复试/机器学习.md",
+    "复试/chatchat项目部署.md",
+    "复试/chatchat项目部署.md_Attachments/chatchat项目部署-20260107205757414.png",
+    "复试/chatchat项目部署.md_Attachments/chatchat项目部署-20260107205749774.png",
+    "复试/chatchat项目部署.md_Attachments/chatchat项目部署-20260107205608877.png",
+    "复试/chatchat项目部署.md_Attachments/chatchat项目部署-20260107205546595.png",
+    "复试/chatchat项目部署.md_Attachments",
+    "Windows 修改 Powershell 和 Git 编码.md",
+    "日记/2026-01-07.md",
+    "2026-课程设计/参考网址.md",
+    "复试/NLP项目尝试.md",
+    "2026-课程设计/参考网址.md_Attachments/参考网址-20260107155023939.png",
+    "2026-课程设计/参考网址.md_Attachments/参考网址-20260107154856149.png",
+    "2026-课程设计/参考网址.md_Attachments",
+    "2025-10-05.md",
+    "2026-课程设计",
+    "音乐刮削.md",
     "日记/2026-01-06.md",
+    "毕业设计/毕设_演讲稿_1.md",
     "毕业设计/毕设_演讲稿.md",
     "毕业设计/未命名.md",
     "日记/2026-01-05.md",
-    "考研/408/操作系统/操作系统 强化笔记.md",
     "日记/2026-01-04.md",
-    "复试/机器学习.md",
     "日记/2026-01-03.md",
     "日记/2026-01-02.md",
-    "复试/Pytorch.md",
-    "未命名.md",
-    "Windows 修改 Powershell 和 Git 编码.md",
     "考研/408/计网/第6章 错题.md",
     "考研/408/计网/湖科大 计网 强化.md",
     "考研/数学/150/150 冲刺.md",
@@ -222,31 +284,15 @@
     "Untitled.md",
     "_Templates/AxMathUnwrap.md",
     "_Templates/英语_语法_每日模板.md",
-    "日记/2026-01-01.md",
-    "音乐刮削.md",
-    "2025-10-05.md",
-    "复试/新建 Notepad++ Document.md",
     "复试",
-    "Git批量同步和拉取.md",
-    "PDF去除加密的软件.md",
-    "第1版本_故事.md",
     "故事/未命名",
     "故事",
     "桥桥超温柔.m3u8",
     "Git批量同步和拉取.md_Attachments",
     "毕业设计",
     "新建文件夹",
-    "考研/408/计网/湖科大 计网 强化.md_Attachments.rar",
     "考研/英语/20-25作文.md_Attachments/20-25作文-20251216160855120.png",
     "考研/408/操作系统/大题/2016-47-磁盘.md_Attachments/2016-47-磁盘-20251219180801614.png",
-    "考研/408/操作系统/大题/2022-文件系统.md_Attachments/2022-文件系统-20251219174811439.png",
-    "考研/408/操作系统/大题/2016-47-磁盘.md_Attachments/2016-47-磁盘-20251219180757297.png",
-    "考研/408/操作系统/大题/2016-47-磁盘.md_Attachments",
-    "考研/408/操作系统/大题/2018-45-虚拟地址.md_Attachments/2018-45-虚拟地址-20251219180536334.png",
-    "考研/408/操作系统/大题/2018-45-虚拟地址.md_Attachments",
-    "考研/408/操作系统/大题/2025 程序代码.md_Attachments/2025 程序代码-20251219180046373.png",
-    "考研/数学/150/真题/2022.md_Attachments/2022-20251218163059323.png",
-    "考研/数学/150/真题/2022.md_Attachments/2022-20251218160216082.png",
     "未命名.canvas",
     "canvas/未命名.canvas",
     "职协相关/第2次例会/未命名.canvas",
