@@ -4,22 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "df891e1d705d280d",
+        "id": "bd6ad1c7c4316850",
         "type": "tabs",
         "children": [
           {
-            "id": "8998d9bafe50719d",
+            "id": "c49a187c5e832f65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-01-13.md",
+                "file": "考研/政治/肖1000 笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-13"
+              "title": "肖1000 笔记"
+            }
+          },
+          {
+            "id": "784b5842df054e43",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -64,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "提示词",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,20 +91,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2026-01-13.md",
-                "followCursor": true,
+                "file": "考研/政治/肖1000 笔记.md",
+                "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-13 的大纲"
+              "title": "肖1000 笔记 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.500732421875
+    "width": 254.50043487548828
   },
   "right": {
     "id": "0afa443e831f7359",
@@ -120,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2026-01-13.md",
+                "file": "考研/政治/肖1000 笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-01-13 的反向链接列表"
+              "title": "肖1000 笔记 的反向链接列表"
             }
           },
           {
@@ -184,7 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
+      "bases:创建新数据库": true,
       "zk-prefixer:创建时间戳笔记": true,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -198,25 +208,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8998d9bafe50719d",
+  "active": "c49a187c5e832f65",
   "lastOpenFiles": [
-    "日记/2026-01-09.md",
-    "日记/模板.md",
-    "日记/任务清单和时间安排.md",
-    "日记/pandas 笔记.md",
-    "日记/2026-01-13.md",
-    "日记/2026-01-09.sync-conflict-20260113-145145-GI6D5SF.md",
-    "考研/408/操作系统/操作系统 强化笔记.md",
-    "复试/机器学习.md",
-    "考研/408/操作系统/笔记.md",
-    "在Python和MATLAB环境中，最优的实现策略.md",
-    "音乐刮削.md",
-    "课程设计/参考网址.md",
-    "复试/数据库系统_上.md",
-    "人物提示词/静怡指示词.md",
-    "复试/数据库问答.md",
+    "考研/政治/肖1000 笔记.md",
+    "考研/政治/共性-个性, 寓于, 以...为前提.md",
     "复试/力扣算法刷题.md",
-    "复试/力扣算法刷题.sync-conflict-20260113-145144-GI6D5SF.md",
+    "复试/NLP项目尝试.md",
+    "日记/2026-01-09.md",
+    "毕业设计/未命名.md",
+    "复试/机器学习.md",
+    "考研/408/操作系统/操作系统 强化笔记.md",
     "日记/2026-01-08.md",
     "复试/chatchat项目部署.md",
     "复试/chatchat项目部署.md_Attachments/chatchat项目部署-20260107205757414.png",
@@ -226,17 +227,26 @@
     "复试/chatchat项目部署.md_Attachments",
     "Windows 修改 Powershell 和 Git 编码.md",
     "日记/2026-01-07.md",
-    "复试/NLP项目尝试.md",
-    "课程设计/参考网址.md_Attachments/参考网址-20260107155023939.png",
-    "课程设计/参考网址.md_Attachments/参考网址-20260107154856149.png",
-    "课程设计/参考网址.md_Attachments",
+    "2026-课程设计/参考网址.md",
+    "2026-课程设计/参考网址.md_Attachments/参考网址-20260107155023939.png",
+    "2026-课程设计/参考网址.md_Attachments/参考网址-20260107154856149.png",
+    "2026-课程设计/参考网址.md_Attachments",
     "2025-10-05.md",
-    "课程设计",
+    "2026-课程设计",
+    "音乐刮削.md",
     "日记/2026-01-06.md",
     "毕业设计/毕设_演讲稿_1.md",
     "毕业设计/毕设_演讲稿.md",
+    "日记/2026-01-05.md",
+    "日记/2026-01-04.md",
+    "日记/2026-01-03.md",
+    "日记/2026-01-02.md",
+    "考研/408/计网/第6章 错题.md",
+    "考研/408/计网/湖科大 计网 强化.md",
+    "考研/数学/150/150 冲刺.md",
     "考研/数学/150/150 冲刺.md_Attachments/150 冲刺-20260102001512254.png",
     "考研/数学/150/150 冲刺.md_Attachments/150 冲刺-20260102001448918.png",
+    "Untitled.md",
     "复试",
     "故事/未命名",
     "故事",
